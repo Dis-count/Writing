@@ -1,0 +1,34 @@
+主要存在三个错误：
+全部都是因为 卸载了原来的anaconda 而没有完全清除相关配置的问题
+
+第一个是，kernel error, 必须通过管理员身份才能启动服务器，究其原因是因为安装的时候应该选择 个人，
+这样启动时不需要管理员身份。 报错信息是 permission denied
+
+第二个是，重新卸载安装得到一个新的anaconda 主要选择个人以及不添加路径，即默认推荐选项
+但随之而来的问题是，更换安装路径后，一些软件的启动默认配置已经改变了，还在原来的路径上
+
+命令行 jupyter notebook --generate-config 对默认配置进行修改 overwrite  这样可以解决闪退问题
+
+第三个是，启动之后，kernels still error
+报错 jupyter FileNotFoundError: [WinError 2] 系统找不到指定的文件。
+
+解决方法：
+1、首先在cmd 使用jupyter kernelspec list查看安装的内核和位置。
+
+2、进入安装内核目录打开kernel.jason文件，查看Python编译器的路径是否正确。
+
+{
+ "argv": [
+  "D:/MySoftwares/Anaconda3/envs/tfenv/bin/python",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "Python 3",
+ "language": "python"
+}
+
+3、到实际的文件夹中查看发现/envs/tfenv/下根本没有/bin子目录，python.exe直接就在/tfenv目录下，所以将上面路径中的/bin删去。
+
+4、重启jupyter notebook，错误消失。
