@@ -9,4 +9,8 @@
 了解一些网络编程，计算机组成原理，并行计算提高运算效率
 
 卷积神经网络的改进方法对于提高自己领域的优化有一定的启发意义 CNN RNN
-Hadoop spark hive
+Hadoop spark hive  SQL Mysql
+
+有分布式数据存储与计算应用开发经验
+
+供应链算法
