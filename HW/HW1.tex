@@ -1,0 +1,123 @@
+\documentclass[UTF8]{article}
+    \author {Li Zikang}
+    \title {Homework 1}
+\usepackage{ctex}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\date{}
+\begin{document}
+    \maketitle
+\section*{2-5} (a) Write donw a recursion for $f^{(n)} (x)$ in terms of $f^{(n-1)} (\cdot)$ and the parameters of the problem.
+    \large
+
+    For any participant, with $n$ more spins, he/she can choose to spin or stop. When choosing \textbf{stopping}, he/she will take away the  current accumulation of $x$. We can obtain $f^{(n)} (x)$ = $x$. While choosing \textbf{spinning}, it is also easy to know that
+
+    $ f^{(n)}(x)= \sum_{i} f^{(n-1)}(x+r_i)\cdot p_i$, where $i = 1,\ldots,m.$\\
+
+    $ f^{(n)}(x)= \max\{\sum_{i} f^{(n-1)}(x+r_i)\cdot p_i, ~x\}$
+
+    \normalsize
+    (b) Solve the problem numerically for the case in which $m=3, p_i = 1/4$, \text{for} $i = 1,2,3, r_1 =1, r_2 =5, r_3 =10$, and there are one or two more spins available.
+
+    \large
+    At the beginning, the winning is $0$, so must choose to spin.
+    $$ f^{(2)}(0)=\left\{
+    \begin{aligned}
+    & f^{(1)}(1), \text{probability} ~1/4 \\
+    & f^{(1)}(5), \text{probability} ~1/4 \\
+    & f^{(1)}(10), \text{probability} ~1/4 \\
+    & 0 ~\quad \text{probability} ~1/4
+    \end{aligned}
+    \right.
+    $$
+
+    $$ f^{(1)}(x)=\left\{
+    \begin{aligned}
+    & x+1, \text{probability} ~1/4 \\
+    & x+5, \text{probability} ~1/4 \\
+    & x+10, \text{probability} ~1/4 \\
+    & 0 ~\quad \text{probability} ~1/4 \\
+    & x ~\quad \text{choose to stop}
+    \end{aligned}
+    \right.
+    $$
+
+So when spinning once, the excepted winnings are $1/4 \times (1+5+10)=4$. And when spinning twice, $f^{(1)}(x) = 1/4 \times [(x+1)+(x+5)+(x+10)]$. $f^{(2)}(0) =1/4 \times (f^{(1)}(1)+f^{(1)}(5)+f^{(1)}(10))= 1/4 \times (4+3/4+4+15/4+4+30/4) = 6$
+
+In particular, $f^{(0)}(x) = x, f^{(1)}(x) =\max\{3/4x+4, x\}.$
+Let $3/4x+4 = x$, $x = 16$. When $x>16$, the participant will take away the winnings; when $x<16$, the participant will spin again. Consequently, the expected total winnings are 16 for this case.
+
+\section*{2-6}
+
+(a) Write down a recursion for $v(x)$ and use it to find an explicit expression for $v(x)$ in terms of $x, \Phi(x), I(x), \text{and}~ \alpha,$ where $I(x):=E(X-x)^{+}=\int_{x}^{\infty}(\xi-x) \phi(\xi) d \xi$. \\
+
+$v(x,n) = v(x,n-1)\cdot \alpha \cdot \Phi(x) + \int_{x}^{\infty} \xi \phi(\xi) d \xi$ \\
+
+Let $V =\int_{x}^{\infty}\xi \phi(\xi) d \xi.$ \\
+
+$v(x,n) = v(x,1)\cdot [\alpha \cdot \Phi(x)]^{(n-1)} + V[1+[\alpha \cdot \Phi(x)]+[\alpha \cdot \Phi(x)]^2+\cdots+[\alpha \cdot \Phi(x)]^{n-2}]$ \\
+
+$v(x,1) = \int_{x}^{\infty}\xi \phi(\xi) d \xi = V$
+
+Then we can obtain that $v(x) = V\frac{1-(\alpha \cdot \Phi(x))^n}{1-\alpha \cdot \Phi(x)}$, $\alpha \in (0,1)$.
+Because this is an infinite period, let $n \to \infty$, so $v(x) = \frac{V}{1-\alpha \cdot \Phi(x)}$.
+
+$I(x) = \int_{x}^{\infty}(\xi-x) \phi(\xi) d \xi = \int_{x}^{\infty} \xi \phi(\xi) d \xi - x(1-\Phi(x))$ \\
+
+So $V = I(x) + x(1-\Phi(x))$, substitute it in the $v(x)$, we get $v(x) = \frac{I(x) + x(1-\Phi(x))}{1-\alpha \cdot \Phi(x)}$ \\
+
+(b) $\alpha = 0.99$ bids $\sim N(1000,200)$. x = 1200.
+So $v(1200) =  \frac{I(1200)+ 1200(1-\Phi(1200))}{1-\alpha \Phi(1200)}$, $I(1200) = 200I_N (1)$, $\Phi(1200) = \Phi_N(1) = 0.841$,$I_N(1) = \phi_N(1) - 1+ \Phi_N(1) = 0.083$.\\
+By calculating, $v(1200) = 1238.9$
+
+\section*{2-7}
+(a) Display $\Omega$.
+
+$\Omega =\{(3,3,1),(2,3,2),(2,2,2),(1,3,2),(2,3,1),(0,3,2),(1,3,1),\\(1,1,2),(2,2,1),(2,0,2),(3,0,1),(1,0,2),(2,0,1),(1,1,1),(0,0,2)\}$
+
+(b) $S_0 = \{(3,3,1)\}$, $S_1 = \{(2,3,2),(2,2,2),(1,3,2)\}$,$S_2 = \{(2,3,1)\}$, $S_3 = \{(0,3,2)\}$, $S_4 = \{(1,3,1)\}$, $S_5 = \{(1,1,2)\}$, $S_6 = \{(2,2,1)\}$, $S_7 = \{(2,0,2)\}$, $S_8 = \{(3,0,1)\}$, $S_9 = \{(1,0,2)\}$, $S_{10} = \{(2,0,1),(1,1,1)\}$, $S_{11} = \{(0,0,2)\}$.
+
+m = 11.
+
+\section*{3-4}
+(a) Write down a recursion for $f^n(x|S)$.
+
+ $f^{(n)}(x|S)= \sum_{i} f^{(n-1)}(x+r_i|S)\cdot p_i$.
+
+ $$ f^{(n)}(x|S)=\left\{
+ \begin{aligned}
+ & \sum_{i} f^{(n-1)}(x+r_i|S)\cdot p_i,~ \text{spin or}~ x<S.  \\
+ & x ~\quad, \text{stop}.
+ \end{aligned}
+ \right.
+ $$
+
+ (b) Being indifferent means $\sum_{i} f^{(n-1)}(S+r_i|S)\cdot p_i = S = f^{(n)}(S|S) \Rightarrow \sum_i^m(S^*+r_i)p_i = S^* \Rightarrow S^* = \frac{\mu}{p}$.
+
+\section*{3-5}
+(a) Write a recursion for $f_n$ in terms of $f_{n-1}$
+
+$f_n(x) = f_{n-1}(x) \cdot \alpha + I(\alpha x)$
+
+(b) Calculate $f_n$.
+$f_2 = $
+
+
+
+\section*{3-6} test1.
+
+
+
+
+\section*{4-4} test1.
+
+
+
+
+\section*{4-5}
+
+导数小于1, 所以f(x) 线性函数 且系数为1.
+
+
+
+\end{document}
