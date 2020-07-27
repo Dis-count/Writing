@@ -75,7 +75,12 @@ By calculating, $v(1200) = 1238.9$
 
 $\Omega =\{(3,3,1),(2,3,2),(2,2,2),(1,3,2),(2,3,1),(0,3,2),(1,3,1),\\(1,1,2),(2,2,1),(2,0,2),(3,0,1),(1,0,2),(2,0,1),(1,1,1),(0,0,2)\}$
 
-(b) $S_0 = \{(3,3,1)\}$, $S_1 = \{(2,3,2),(2,2,2),(1,3,2)\}$,$S_2 = \{(2,3,1)\}$, $S_3 = \{(0,3,2)\}$, $S_4 = \{(1,3,1)\}$, $S_5 = \{(1,1,2)\}$, $S_6 = \{(2,2,1)\}$, $S_7 = \{(2,0,2)\}$, $S_8 = \{(3,0,1)\}$, $S_9 = \{(1,0,2)\}$, $S_{10} = \{(2,0,1),(1,1,1)\}$, $S_{11} = \{(0,0,2)\}$.
+(b) $S_0 = \{(3,3,1)\}$, $S_1 = \{(2,3,2),(2,2,2),(1,3,2)\}$,\\
+$S_2 = \{(2,3,1)\}$, $S_3 = \{(0,3,2)\}$,\\
+$S_4 = \{(1,3,1)\}$, $S_5 = \{(1,1,2)\}$,\\
+$S_6 = \{(2,2,1)\}$, $S_7 = \{(2,0,2)\}$,\\
+$S_8 = \{(3,0,1)\}$, $S_9 = \{(1,0,2)\}$, \\
+$S_{10} = \{(2,0,1),(1,1,1)\}$, $S_{11} = \{(0,0,2)\}$.
 
 m = 11.
 
@@ -97,17 +102,60 @@ m = 11.
 \section*{3-5}
 (a) Write a recursion for $f_n$ in terms of $f_{n-1}$
 
-$f_n(x) = f_{n-1}(x) \cdot \alpha + I(\alpha x)$
+$f_n = f_{n-1} \cdot \alpha \cdot \Phi(\alpha f_{n-1})+ \int_{\alpha f_{n-1}}^{\infty}\xi \phi(\xi) d \xi$
+
+Let $V = \int_{\alpha x}^{\infty}\xi \phi(\xi) d\xi = I(\alpha x) + \alpha x (1-\Phi(\alpha x))$.
 
 (b) Calculate $f_n$.
-$f_2 = $
+$I_N(-0.05) = \phi_N(-0.05) -1 + \Phi_N(-0.05) = 0.398 -1 + 0.48 = -0.122$,
 
+$V = I(990) + 990(1-\Phi(990)) = 200I_N(-0.05) + 990(1-\Phi_N(-0.05)) = 200\times(-0.12) + 990(1-0.48)= 490.5 $\\
+$f_2 = \alpha\mu \Phi(\alpha \mu) + \int_{\alpha \mu}^{\infty}\xi \phi(\xi) d \xi = 0.48*0.99*1000 + 490.5 = 965.7$
+
+$f_3 = \alpha \Phi(\alpha f_2) f_2 + \int_{\alpha f_2}^{\infty}\xi \phi(\xi) d \xi = 916.5$
+
+$f_4 = \alpha \Phi(\alpha x) f_3 + \int_{\alpha x}^{\infty}\xi \phi(\xi) d \xi = 843.3$
+
+(c) Let $f_n = f_{n-1}$, we can obtain that
+$f_n = \alpha f_n \Phi(\alpha f_n) + I(\alpha f_n)+ \alpha f_n (1-\Phi(\alpha f_n))$.
+Obviously, we can obtain that $f_n = \frac{I(\alpha f_n)}{1-\alpha}$.
 
 \section*{3-6}
-To be honest, I'm confused by these questions about different ways of bidding.
+
+(a) Because there is a discount factor which is less than 1, when you wait it for a long period, your profit will be very low as time went by. So, it is obvious that we don't need to wait for all bids to be received.
+
+(b)
+$$ f_n(x)=\left\{
+\begin{aligned}
+& \alpha f_{n-1}(x+r_i)\cdot p_i,  \\
+& x ~\quad, \text{accept}.
+\end{aligned}
+\right.
+$$
+
+To be honest, I'm confused by this question....
 
 \section*{4-4}
+The original formulation is
+$v(x, S)=\left\{\begin{array}{ll}c & \text { if } x=0 \\ p x+q v(x-1, S) & \text { if } 1 \leq x \leq S \\ v(S, S) & \text { if } S<x\end{array}\right.$,
+for this case, we can continue drive until we find an unoccupied space. So define a function $F(x),f(x,i)$, where $x<0$.
 
+$F(x) = pf(x,0)+qf(x,1)$ ~and
+
+$f(x, i)=\left\{\begin{array}{ll}
+-x & \text { if } i=0 \\
+F(x-1) & \text { if } i=1
+\end{array}\right.$
+
+$i= 0$ means the space isn't occupied, only choose to park here.
+Now, we can obtain $F(x) = p(-x)+qF(x-1) = p(\sum_{i=-x}^{n-x-1} iq^{i+x}) = \frac{q[1+(n-1)q^n-nq^{n-1}]}{(1-q)^2}-x\frac{1-q^n}{1-q}
+, x<0$, let $n = \infty,F(-1) = \frac{1}{(1-q)^2}$
+
+Let $v(0,S) = F(-1)$, we can obtain the formulation for this question:
+
+$v(x, S)=\left\{\begin{array}{ll}v(0,S)= \frac{1}{(1-q)^2} & \text { if } x=0 \\ p x+q v(x-1, S) & \text { if } 1 \leq x \leq S \\ v(S, S) & \text { if } S<x\end{array}\right.$
+
+Consequently, $v(S,S) = p \sum_{i=0}^S q^i(S-i) + q^S\frac{1}{(1-q)^2} = \\ \quad S - \frac{q(1-q^S)}{p} + q^S \frac{1}{(1-q)^2}$.
 
 \section*{4-5}
 Define $~G^n (x) = -x + \sum_i^m f^{n-1}(x+r_i)p_i$.
