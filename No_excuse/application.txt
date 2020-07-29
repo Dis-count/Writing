@@ -1,0 +1,24 @@
+# This file will record some ideas about my PS.
+
+# You gave a lecture about the general optimization method for your team.(Which means you've already mastered a basic capability.)
+
+# Your research object:
+Continue the project the professor gives you.
+
+About Cinema model
+
+# Take the course of Prof.Chen, which talked about inventory theory.
+
+# Master python/Matlab/R and Gurobi, and practice a lot about leetcode, be capable of modeling and solve it quickly.
+
+# Master the basic method for solving Integer Programming, contains Column generation, Cutting plane, Row generation.
+
+# Publish a paper about the inverse UFL probelm on a Chinese Journal (Operation Research and Management.) which use the basic huristic algorithm and row generation.
+
+# Working paper concludes that Pricing instrument for the scheduling game.
+And inverse probelm of general linear programming, change it to a MIP problem.
+
+
+# My undergraduate's performance is excellent, but when I was in my junior year, I realize that what I am passionate about is modeling and using programs to solve it. So I spend a lot of time to change my major.
+
+# After studying under Prof.Liu, I gradually like learning more algorithm about how to sovle all kinds of problems.

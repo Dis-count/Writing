@@ -127,12 +127,13 @@ Obviously, we can obtain that $f_n = \frac{I(\alpha f_n)}{1-\alpha}$.
 (b)
 $$ f_n(x)=\left\{
 \begin{aligned}
-& \alpha f_{n-1}(x+r_i)\cdot p_i,  \\
-& x ~\quad, \text{accept}.
+& \alpha f_{n-1}(x/\alpha), \text{not accept this period}.  \\
+& \alpha^t x ~\quad, \text{accept}.
 \end{aligned}
 \right.
 $$
 
+$f_n(x) = \alpha f_{n-1}(x/\alpha) \int_{x/\alpha}^{\infty} \phi(\xi) d \xi + \alpha^t x \Phi(x/\alpha)$ \\
 To be honest, I'm confused by this question....
 
 \section*{4-4}
