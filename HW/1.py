@@ -10,7 +10,9 @@ def my_pdf(num):
     N_num = (num-1000)/200
     return norm.pdf(N_num)
 
-my_pdf(990)
+my_pdf(990) + 0.05*(1-my_cdf(990))
+
+0.4244 * 200 +990
 
 def my_cdf(num):
     N_num = (num-1000)/200
@@ -18,11 +20,11 @@ def my_cdf(num):
 
 my_cdf(990)
 
+
 def ff(num):
     mynum = 0.99*num
-    I = my_cdf(mynum)+my_pdf(mynum)-1
-    V = 200*I + mynum*(1- my_cdf(mynum))
-    f = mynum*my_cdf(mynum) + V
+    I = my_pdf(mynum) -(mynum-1000)/200*(1-my_cdf(mynum))
+    f = mynum + 200*I
     return f
 
-ff(916.5)
+ff(1115.92)
