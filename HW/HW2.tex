@@ -13,18 +13,61 @@ https://blog.csdn.net/zte10096334/article/details/103095456?utm_medium=distribut
 \date{}
 \begin{document}
     \maketitle
-\section*{5-7} (a)
+\section*{5-7}
+
+(a) Show that $F_{t s}(x)=\sum_{j} p_{s j}^{\delta_{t}(s)} F_{t+1, j}\left(\frac{x-r\left(s, \delta_{t}(s)\right)}{\alpha}\right)$.
+
+According to the definition of $X_{t s}$, the next stage of the returns $x'$ satisfies $\alpha x' + r(s, \delta_{t}(s) = x$.
+
+(b) Show that $\hat{v}_{t s}=\alpha^{2} \sum_{j} p_{s j}^{\delta_{l}(s)} \hat{v}_{t+1, j}+\sum_{j} p_{s j}^{\delta_{t}(s)}\left[r\left(s, \delta_{t}(s)\right)+\alpha v_{t+1, j}\right]^{2}-\left(v_{t s}\right)^{2}$
+
+$\hat{v}_{t s}:=E\left[\left(X_{t s}-v_{t s}\right)^{2}\right] = E(X_{t s}^2) - 2 E(X_{t s}) v_{t s} + (v_{t s})^2$ \\
+
+$E(X_{t s}) = (v_{t s}- 1/2 \alpha^{2} \sum_{j} p_{s j}^{\delta_{l}(s)} \hat{v}_{t+1, j})$
+
+According to the definition of the $E(X_{t s}^2)$, we can obtain that
+
+$E(X_{t s}^2) = F_{t s} X_{t s}^2 = \sum_{j} p_{s j}^{\delta_{t}(s)}\left[r\left(s, \delta_{t}(s)\right)$
 
 \section*{6-4}
 The generalization of the inventory: Demand is negative. (section 6.3)
 
+The original expression is that:
+
+$\gamma(y):=c y+L(y)+\alpha \int_{0}^{y}\left[-c \beta_{\mathbf{R}}(y-\xi)\right] \phi(\xi) d \xi+\alpha \int_{y}^{\infty}\left[c \beta_{\mathbf{B}}(\xi-y)\right] \phi(\xi) d \xi$
+In this case, the demand can be negative, when extending the demand to the whole real space, the above expression still holds. Because the stock could be returned to the supplier with the initial cost $c$.
+
+To sum up, when the equation $\gamma(y)$ holds, it is still optimal to order up to $S$.
+
 \section*{6-9}
-(section 6.5) Consider the
-(a)
+(a) Generalize (6.5) for this case.
+Period $t$.
+Unit order cost is $c_t$.
+unit holding cost is $c_t^H$.
+unit shortage cost is $c_t^P$
+demand distribution is $\Phi_t$
+
+$\Phi_t(S)=\frac{c_t^{P}-c_t(1-\alpha \beta_{B})}{ c_t^{P}+c_t^{H}+\alpha c_t(\beta_{B}-\beta_{R})}$
+
+(b) Show the increasing.
+
 
 \section*{7-7}
-(a)
+(a) Verify that the optimality equations can be written as:
+When $y \geq x$, we discuss the result of $f_t(x)$:
+$f_t(x) = \min{-cx + \min_{y\geq x}G_t(y)}$.
+When $y \leq x$, replace the cost $c$ with $d$, we can obtain that
+$f_t(x) = \min{-dx + \min_{y\leq x}g_t(y)}$.
+So comprehensively considering both situations, the optimality equations satisfy
+
+$f_t(x) = \min[-cx + \min_{y\geq x}G_t(y)}, -dx + \min_{y\leq x}g_t(y)$.
+
+(b)
+
 \section*{8-4}
-(a)
+Let $g(x) = x^2$, it is obvious that $g(x)$ is a convex function. In this case, $f(x,y,z) = g(x+y-z) = x^2 + y^2 + z^2 +2xy -2xz -2yz$. Its cross partials are not all negative(corresponds to submodularity) and not all positive(corresponds to supermodularity) either. So $f$ is neither submodular nor supermodular.
+
+
+
 
 \end{document}
