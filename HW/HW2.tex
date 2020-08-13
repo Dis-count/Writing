@@ -1,9 +1,9 @@
 \documentclass[UTF8]{article}
 
-https://blog.csdn.net/robert_chen1988/article/details/81542528?utm_medium=distribute.pc_relevant_right.none-task-blog-BlogCommendFromMachineLearnPai2-6.nonecase&depth_1-utm_source=distribute.pc_relevant_right.none-task-blog-BlogCommendFromMachineLearnPai2-6.nonecase
+% https://blog.csdn.net/robert_chen1988/article/details/81542528?utm_medium=distribute.pc_relevant_right.none-task-blog-BlogCommendFromMachineLearnPai2-6.nonecase&depth_1-utm_source=distribute.pc_relevant_right.none-task-blog-BlogCommendFromMachineLearnPai2-6.nonecase
 
 
-https://blog.csdn.net/zte10096334/article/details/103095456?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param
+% https://blog.csdn.net/zte10096334/article/details/103095456?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param
 
     \author {Li Zikang}
     \title {Homework 2}
@@ -50,7 +50,7 @@ demand distribution is $\Phi_t$
 $\Phi_t(S)=\frac{c_t^{P}-c_t(1-\alpha \beta_{B})}{ c_t^{P}+c_t^{H}+\alpha c_t(\beta_{B}-\beta_{R})}$
 
 (b) Show the increasing.
-
+When $t$ increases, the critical fraction $\Phi_t(S)$ also increases.
 
 \section*{7-7}
 (a) Verify that the optimality equations can be written as:
@@ -60,9 +60,15 @@ When $y \leq x$, replace the cost $c$ with $d$, we can obtain that
 $f_t(x) = \min{-dx + \min_{y\leq x}g_t(y)}$.
 So comprehensively considering both situations, the optimality equations satisfy
 
-$f_t(x) = \min[-cx + \min_{y\geq x}G_t(y)}, -dx + \min_{y\leq x}g_t(y)$.
+$f_t(x) = \min[-cx + \min_{y\geq x}G_t(y)}, -dx + \min_{y\leq x}g_t(y)]$.
 
 (b)
+Define $f_t^1 = -cx + \min_{y\geq x}G_t(y)$,
+$f_t^2 = -dx + \min_{y\leq x}g_t(y)$.
+According to the conclusion of Exercise 7.6, if $f'_1 \leq f'_2$, their corresponding minimizers satisfy that $S_1 \geq S_2$.
+
+Because of $d < c$, it is obvious that $f'_t^1 < f'_t^2$, so the minimizers $S_t^1 > S_t^2$. Reminding the initial model without the disposal, $S_t^1$ corresponds $S$. Define $S_t^1 = \overline{S_t}$ and
+$S_t^2 = \underline{S_t}$, so there exists an optimal target interval policy.
 
 \section*{8-4}
 Let $g(x) = x^2$, it is obvious that $g(x)$ is a convex function. In this case, $f(x,y,z) = g(x+y-z) = x^2 + y^2 + z^2 +2xy -2xz -2yz$. Its cross partials are not all negative(corresponds to submodularity) and not all positive(corresponds to supermodularity) either. So $f$ is neither submodular nor supermodular.
