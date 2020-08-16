@@ -1,24 +1,32 @@
 Dear Professor:
-  I am LiZikang, now a graduate student at USTC
+  Sorry to interrupt you. Let me introduce myself.
 
-  I want to apply to be your graduate student.
+  I am LiZikang, now a graduate student at USTC under study with Professor Liu
 
-  Last year, I went to Nanjing to meet you under the
+  I really want to apply to be your graduate student to continue my study career.
 
-  I Know that there are three courses I need to pass to continue my Ph.D career.
-  And
+  Last year, I went to Nanjing to meet you under the guildance of Prof Liu.
 
-  After that,
+  I Know that there are three courses I need to learn to pass the exam.
+
+  So I have been improving my code capability, and already master the basic optimization methods, including deterministic and stochastic optimization.
+
+  You told me that mastering a Programming Language, and I have been working on that.
 
   Maybe you know
-  I know
 
-  And you told me that mastering a Programming Language
-  Now I'm
-  I have been improving my code capability, and already master the basic optimization methods, including deterministic and stochastic optimization.
+  I notice that the application is coming.
 
   Don't worry about
 
-  There will be a problem
+  There will be a problem about the English score, I didn't get the opportunity to have the English test because most of the test have been cancelled due to the influence of Covid-19.
 
   I haven't got a satisfied English score
+
+  I'm wondering that if you can give me the proposal if you have a appropriate project.
+
+  and I think I'm good at modeling and coding.
+
+  If that is ok, we can talk about that later.
+
+  Looking forward to hearing from you.
