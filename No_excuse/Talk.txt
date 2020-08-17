@@ -1,31 +1,33 @@
-Dear Professor:
-  Sorry to interrupt you. Let me introduce myself.
+Dear Professor Qi:
 
-  I am LiZikang, now a graduate student at USTC under study with Professor Liu
+  Good afternoon!
 
-  I really want to apply to be your graduate student to continue my study career.
+  Sorry to interrupt you. Maybe it will take you several minutes to read this email.
 
-  Last year, I went to Nanjing to meet you under the guildance of Prof Liu.
+  I am LiZikang, now a graduate student of Professor Liu at USTC.
 
-  I Know that there are three courses I need to learn to pass the exam.
+  I want to apply to be your graduate student to continue my study career.
 
-  So I have been improving my code capability, and already master the basic optimization methods, including deterministic and stochastic optimization.
+  Last year, I went to Nanjing to meet you under the guidance of Prof. Liu.
 
-  You told me that mastering a Programming Language, and I have been working on that.
+  You told me that mastering a programming language expertly, and I have been working on that.
 
-  Maybe you know
+  Besides that, I know that there are three courses I need to learn to pass the exam.
 
-  I notice that the application is coming.
+  Therefore, I have been improving my code and modeling capability, and I have already mastered the basic optimization methods, including deterministic and stochastic optimization.
 
-  Don't worry about
+  The attachment is about my resume.
+
+  I notice that the application is coming. So there are two problems I want to ask you.
+
+  The first one is about the proposal, I'm wondering if you can give me a proposal if you have an appropriate topic or project.
+
+  The second one is about English test. Last 
 
   There will be a problem about the English score, I didn't get the opportunity to have the English test because most of the test have been cancelled due to the influence of Covid-19.
 
   I haven't got a satisfied English score
 
-  I'm wondering that if you can give me the proposal if you have a appropriate project.
-
-  and I think I'm good at modeling and coding.
 
   If that is ok, we can talk about that later.
 
