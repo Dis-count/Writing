@@ -5,18 +5,18 @@
             让步-反驳-反驳
             中立
 
-3. 每个主体段分论点 + 分论据简单提示
+3. 每个主体段分论点 + 分论据简单提示 (Outline)
 
 思考时 注意 反向思考，即题定论点，再由论点决定结构，论点决定态度
 
 ############################################
 
 分析方法： 内外因分析，发散思维
-          因果法
+          因果法 -- 原因
           核心词法写背景
-          转折
-          细节
-          分清逻辑关系
+          转折 --   一定要善用这种逻辑关系
+          细节 --   举例
+          分清逻辑关系 -- 逻辑上要清晰
           思路切入点
 
 论证方法：原因，假设，举例，对比，定义解释
@@ -26,6 +26,24 @@
 
 开头段作用： 引入话题（核心观点） 表达观点 1. 背景句，引入题目，个人观点
 
+Some useful background sentences:
+
+As the society expanded into more complicated forms, people started to contemplate on many aspects of life. (更哲学一点的题目,比如有关领导力的)
+
+有关教育的,一定是生活水平的提高,这是因
+More incresing living standards of common people,
+
+有关科技的,一些有利有弊的讨论是因为科技的进步
+leading-edge devices / technology
+
+健康,
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+总结一下, 如果是同意给出的观点, 那么就采用情景共通的方法: 抽象该问题的背景(我的简单经历),我的看法,简单原因.
+如果是不同意的观点, 采用经典的背景引入方法: 背景(可以利用时间维度上的阐述,从古至今or traditionally 观点引入), Conversely, 我的观点.
+
+Some useful expressions:
+
+one of the ideas human endeavored to explicate
 
 主体段： 1. 分论点 2. 分论据 3. 小总结
 
@@ -101,3 +119,5 @@ diagree with/ opposite to sth/ differ from/
 
 (听力)反驳: argues/ points out/ claim/ mention / demonstrate/ contend/ make the point that/ elaborate one's perspective with the evidence that/ illustrate
 one's disagreement
+
+deem/ assert
