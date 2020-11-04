@@ -24,7 +24,9 @@
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-开头段作用： 引入话题（核心观点） 表达观点 1. 背景句，引入题目，个人观点
+开头段作用： 引入话题（核心观点） 表达观点
+1. 背景句，2. 引入题目，3. 个人观点
+背景句一般用于延伸该问题, 可以有不同的角度: 比如为什么会有这样的观点,肯定由于现实生活中有这样的影子才会有这样的观念(生活水平提高,科技进步,教育水平提升); 再比如跟人生活相关的,比如什么样的朋友重要之类的, 就讲抛去这个属性之后的关键词(朋友) 有什么意义,有哪些类型(属性),然后有人会说(引出题目).
 
 Some useful background sentences:
 
@@ -41,7 +43,7 @@ In the contemporary western world, rapidly changing styles cater to a desire for
 
 朋友
 This so-called emotional convergence seems to be beneficial to friendships and romantic relationships, making them stronger and longer lasting.
-Understanding and supporting can promote mutual feelings
+Understanding and supporting can promote mutual feelings.
 
 人才
 In modern society, who had talent and incentive talent, to play the greatest potential and the function, who can be in competition to occupy the initiative position, who will truly be the champion, making enterprises remain invincible.
@@ -54,7 +56,9 @@ the leap forward in XXX made possible by the advent of the XXX
 However, as the leap forward of the computer and network technology, the paper is facing the challenge of the Electronic Publication.
 
 
-burgeoning demand/populat1ion
+burgeoning demand/population
+
+exert all one's strength
 
 ********************************************
 主体段的结构
@@ -68,7 +72,7 @@ burgeoning demand/populat1ion
 小句子中, 多用状语从句结构,多用关系词连接小分词.
 ******************************************
 结尾段 结构
-
+要从一个更高的角度进行统一, 一般是横向比较一个事物的两个方面, 所以第一句需要讲该事物的特点(生活中很重要,不然这个题没什么意义), 第二句要点题 尽管提到的那个很重要, 但是 更重要的原因是什么.
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
