@@ -35,6 +35,8 @@ As the society expanded into more complicated forms, people started to contempla
 有关教育的,一定是生活水平的提高,这是因.
 More incresing living standards of common people,
 
+With the improvement of the social culture and the transformation of the educational concepts, parents and the society have become more and more concerned with the education of children.
+
 有关科技的,一些有利有弊的讨论是因为科技的进步
 leading-edge devices / technology
 
@@ -57,11 +59,17 @@ By capitalizing on the experiences of others,...
 the leap forward in XXX made possible by the advent of the XXX
 However, as the leap forward of the computer and network technology, the paper is facing the challenge of the Electronic Publication.
 
-
 burgeoning demand/population
 
 exert all one's strength
 
+Template:
+
+1. In response to the problem, some people may argue that___ But is it? Close analysis does not bear out the argument.
+2. To choose A or choose B is something of a dilemma to the public because they sometimes are confused by the seemingly good qualities of B, and neglect the genuinely good aspects of A.
+3. There is no denying the fact that whether to choose A or B is better is a popular topic which has caused heated debate over a long period of time (because it affects everybody in his or her daily lives).
+Although it seems that sometimes we cannot tell which one outweighs the other between A and B, they deserve some close examination.
+There are no less than three advantages in A as rendered below:
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 这里积累一些素材
@@ -76,13 +84,37 @@ He examines why the majority of Canadian ice hockey players are born in the firs
 第四句,  可以是 no wonder
 第五句, 总结.
 
+Template:
+1、 For B, people are often driven to believe that ……. (As a proverb says, “Everything has two
+sides”.) Although B does have its seemingly profound advantages, at the mean time there lies
+intrinsic harmful characteristics in it such as …… Some experts maintain that……. This
+significant point, however, is often not noticed by public. And accordingly, is unconsciously
+overlooked. What is more, if you notice the invisible benefits of CHOOSING A, you can
+understand A more deeply.
+2、 On the other hand, choosing B also has advantages to some extent.
+However, it is also important to see that under certain circumstances B will ……(disadvantage)
+或：Yet there are some people who cast serious doubts on B
+3、 第四段：（针对我个人的情况又可以说出一套理由）But if all these factors are contemplated,
+according to my personality and fondness, the advantages of A carry more weight than those
+of B because A fits me better in two ways:
+4、 Moreover, ________also provides adequate justification for my opinion. According to 100
+studies carried out in 10 major cities throughout China,___________." No one can deny the
+truth behind the number."
+In addition, an equally essential factor which deserves people's attention is_______.
+Admittedly, it may be true that ______.However, this alone does not provide sufficient
+support to claim that______. Actually, it is too specific and weak to strengthen the point
+that_________.
+
 
 小句子中, 多用状语从句结构,多用关系词连接小分词.
 ******************************************
 结尾段 结构
 要从一个更高的角度进行统一, 一般是横向比较一个事物的两个方面, 所以第一句需要讲该事物的特点(生活中很重要,不然这个题没什么意义), 第二句要点题 尽管提到的那个很重要, 但是 更重要的原因是什么.
 
-
+Template:
+1、 Which one I prefer depends on my own experience, life style and emotional concerns. To be frank, I would like to choose A
+2、 Therefore from what we have discussed, we may safely come to the conclusion that CHOOSING AAA is a rather wise decision.
+3、 There is little doubt that more and more people will come to realize that_______.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 总结一下, 如果是同意给出的观点, 那么就采用情景共通的方法: 抽象该问题的背景(我的简单经历),我的看法,简单原因.
 如果是不同意的观点, 采用经典的背景引入方法: 背景(可以利用时间维度上的阐述,从古至今or traditionally 观点引入), Conversely, 我的观点.
