@@ -25,7 +25,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 开头段作用： 引入话题（核心观点） 表达观点
-1. 背景句，2. 引入题目，3. 个人观点
+1. 背景句 (通常有关发展或者 lay emphasis on)，2. 引入题目(heated debate /Some people recommond/hold + Nevertheless, from my own perspective, *** on the whole)， 3. 个人观点
 背景句一般用于延伸该问题, 可以有不同的角度: 比如为什么会有这样的观点,肯定由于现实生活中有这样的影子才会有这样的观念(生活水平提高,科技进步,教育水平提升); 再比如跟人生活相关的,比如什么样的朋友重要之类的, 就讲抛去这个属性之后的关键词(朋友) 有什么意义,有哪些类型(属性),然后有人会说(引出题目).
 
 Some useful background sentences:
@@ -35,13 +35,15 @@ As the society expanded into more complicated forms, people started to contempla
 有关教育的,一定是生活水平的提高,这是因.
 More incresing living standards of common people,
 
-With the improvement of the social culture and the transformation of the educational concepts, parents and the society have become more and more concerned with the education of children.
+With the improvement of the social culture and the transformation of the educational conceptions, parents and the society have become more and more concerned with the education of children.
 
 有关科技的,一些有利有弊的讨论是因为科技的进步
 leading-edge devices / technology
 
 健康, 旅游也是因为生活水平的提高.
 In the contemporary western world, rapidly changing styles cater to a desire for novelty and individualism.
+
+With the raise of human health awareness, ** environmental research has been attached more and more important in recent years.
 
 With the increaing living standards of common people,  这里还需要收集
 
@@ -54,6 +56,9 @@ In modern society, who had talent and incentive talent, to play the greatest pot
 
 商业
 By capitalizing on the experiences of others,...
+
+休息
+It enabled students to devote more time to their studies, or to be more accurate, more time to relaxation. /loosen up/ helps them to unwind after a busy day at work
 
 用于引入..
 the leap forward in XXX made possible by the advent of the XXX
@@ -177,16 +182,34 @@ The author                 The professor
 
 the professor refutes the argument/viewpoint that XXXX in the reading.
 
-递进: Meanwhile, besides that, beyond that,  in addition to , otherwise, other than, be included,
+递进: Additionally, besides that, beyond that,  in addition to , otherwise, other than, be included,
 Moreover, furthermore, what's more,
 
-转折: On the contrary, However, Nevertheless, but, yet, while, notwithstanding,
+因此： Accordingly(强调根据某种原因而得出的结果), therefore(通常指引出一个推断出的必然结论), thus, consequently(逻辑上)
+
+并列：as well as, with, both of , [not only, but (also)], besides,
+
+转折: On the contrary, However, Nevertheless, but, yet, while,
+
+Meanwhile(用作两方面的对比，另一方面则。。)
+
+绝不： not nearly, it is all but impossible to../ by no means/ on no account
+
+举例：
 
 另一方面: On the other hand, on the contrary,  conversely,
 
-尽管: even though, nevertheless, while
+相比：In contrast to/with, by contrast,  Compared with/to
+
+尽管: even though, nevertheless, while, notwithstanding(尽管如此)
 
 即使: Even so, Granted that,
+
+不可否认： There is no denying(doubt) that/ Visiting is undeniably a good way to enjoy oneself /It is undeniable that the economic picture is brightening.
+It is undeniable that mobile phones have facilitated our lives in many different ways.
+It is indisputable that the crime rate has been rising/ The indisputable fact is that .....
+
+“ 更不用说，更别提”，let alone 通常用在否定句之后。我们也可以用not to mention，not to speak of，still less，much less，even less
 
 反对: object to/have no objection to/ against/ contradict/
 
