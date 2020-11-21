@@ -74,7 +74,7 @@ Task 3
 The school has implemented a new policy that ________________due to ____________________。
 And the man/woman holds a positive / negative view towards the announcement. The first reason s/he gives is that____________________. And the second one is based on the fact that____________________. Therefore， s/he agrees/disagrees with that opinion。
 
--3-
+-3-   选这个
 The school has implemented a new policy that… due to…
 And the woman/man holds a positive/negative view towards the announcement.
 The first reason s/he gives is that…
@@ -146,7 +146,6 @@ The reading passage introduces a conception held by/the principle/the applicatio
 In the listening passage, the professor describes several specific aspects of…
 Firstly,…
 Secondly,…
-
 
 
 Task 6
