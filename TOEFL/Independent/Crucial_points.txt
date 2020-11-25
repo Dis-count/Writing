@@ -20,28 +20,108 @@
           思路切入点
 
 论证方法：原因，假设，举例，对比，定义解释
+假设论证(Suppose)：
+if...
+supposing that.../ suppose that...
+provided/given that
+just imagine what would be like if ...
+unless / once / in case
+on the conditions that...
+without ...
+The more anticipated result will be ...
+it is reasonable to expect ...
+it is not surprising that ...
 
+举例(examplification)：
+A good case in point is that ...
+A typical example can be found in ...
+Take ... for exampe/ it as an example to illustrate the standpoint that ...
+..., which may include ...
+类比/对比(Analogy/contrast):
+A is similar /analogous to B.
+Similarly, in the same manner, likewise,
+-- Genetic modification is analogous to nuclear power: nobody loves it, but climate change has made its adoption imperative. --
 
+In comparison with/to A,B ...
+compared to/with A,B
+as opposed to A,B ...
+rather than/ instead of
+解释说明(explanation):
+因果论证(cause and effect): 这里可以仔细分析原因，尽可能丰富整个原因的细节构成分句，扩展成一大段。
+Concession and refutation(让步/反驳):
+让步：
+although/ admittedly,
+It is true that ...
+it is often the case that...
+反驳：
+however, nevertheless, but, unfortunately.
+
+Another explanation widely cited in the media is ...
+
+New version: A global language will promote communication across the world. As this language removes the barrier of communication,
+the interaction of various fields, such as trade and techique, will become more convenient.
+As a result, the poor countries will have more opportunities to obtain foreigh investment,  narrowing the economic gap between them and rich countries.
+
+at the mercy of ... 任。。。摆布
+commonness and difference.
+To do this, it is imperative to understand the difference between urgency and importance.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 开头段作用： 引入话题（核心观点） 表达观点
 1. 背景句 (通常有关发展或者 lay emphasis on)，2. 引入题目(heated debate /Some people recommond/hold + Nevertheless, from my own perspective, *** on the whole)， 3. 个人观点
 背景句一般用于延伸该问题, 可以有不同的角度: 比如为什么会有这样的观点,肯定由于现实生活中有这样的影子才会有这样的观念(生活水平提高,科技进步,教育水平提升); 再比如跟人生活相关的,比如什么样的朋友重要之类的, 就讲抛去这个属性之后的关键词(朋友) 有什么意义,有哪些类型(属性),然后有人会说(引出题目).
 
+提升词汇：
+laborious task/process.
+doing something is slow and laborious.
+strenuous exercise/efforts
+long and tortuous process/road /route
+long, arduous journey/work
+you cannot realize your goal without arduous efforts. taking risks.
+
+They showed great perseverance in the face of difficulty.
+
+The only way to improve is through hard work and dogged perseverance.
+
 Some useful background sentences:
+
+Don't allow a minor irritation in the workplace to mar your ambitions..
+
+feel irritation at the methods...
 
 As the society expanded into more complicated forms, people started to contemplate on many aspects of life. (更哲学一点的题目,比如有关领导力的)
 
 有关教育的,一定是生活水平的提高,这是因.
 More incresing living standards of common people,
 
+school myself into a habit of attention, I would let nothing come between me and the subject in hand.
+
+presence of mind 镇定
+we too often borrow trouble 自找麻烦
+the fear of ill exceeds the ill we fear.
+
+the evil thoughts would poison mind gradually
+
 With the improvement of the social culture and the transformation of the educational conceptions, parents and the society have become more and more concerned with the education of children.
 
-有关科技的,一些有利有弊的讨论是因为科技的进步
+有关科技的,发展快的
+一些有利有弊的讨论是因为科技的进步
 leading-edge devices / technology
+keep abreast with the steps of social development.
+be eliminated/ kicked out in the fierce competition.
+little knowledge of/ a good understanding
+wide/extensive range of studies and learning
+lag behind the times
+in danger of being excluded from what is going on in the world.
+To fit in with the development of society,
+
+The problem has come to the fore again in recent months.
+The dazzling information technologies come to the fore every day.
 
 健康, 旅游也是因为生活水平的提高.
 In the contemporary western world, rapidly changing styles cater to a desire for novelty and individualism.
+
+Stress and lack of sleep can aggravate the situation.
 
 With the raise of human health awareness, ** environmental research has been attached more and more important in recent years.
 
@@ -187,7 +267,7 @@ Moreover, furthermore, what's more,
 
 因此： Accordingly(强调根据某种原因而得出的结果), therefore(通常指引出一个推断出的必然结论), thus, consequently(逻辑上)
 
-并列：as well as, with, both of , [not only, but (also)], besides,
+并列：as well as, with, both of , [not only, but (also)], besides, likewise,
 
 转折: On the contrary, However, Nevertheless, but, yet, while,
 
@@ -196,6 +276,17 @@ Meanwhile(用作两方面的对比，另一方面则。。)
 绝不： not nearly, it is all but impossible to../ by no means/ on no account
 
 举例：
+
+连接(用于解释)：As we all know + 大, that is to say/in other words + 小, to illustrate+具体解释。
+(通常用于事实例证，或是举例) To make it concrete, to be more precise, to be specific,
+大的方面可以说： XX research has already proved that XX fact...
+1. 现象 + 因果论证 (since) + 假设论证 + 反问点题。
+2. 现象 + 原因解释 + 假设论证 + 事实例证 （研究是什么，具体是什么，统计结果表示什么（更为具体的方面））
+3. 因果论证 + 原因 (Moreover)
+
+否定加强语气：There seems to be no point in doing a course which is ...because ..
+There is also no need (in/for) ..
+never lose sight of the importance of fundamental theories.
 
 另一方面: On the other hand, on the contrary,  conversely,
 
@@ -223,3 +314,9 @@ diagree with/ opposite to sth/ differ from/
 one's disagreement
 
 deem/ assert
+
+Were it not for the discovery of electricity,
+would experience great inconvenience.
+perseverance
+procrastination
+procrastinate
