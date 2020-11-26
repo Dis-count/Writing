@@ -262,7 +262,7 @@ The author                 The professor
 
 the professor refutes the argument/viewpoint that XXXX in the reading.
 
-递进: Additionally, besides that, beyond that,  in addition to , otherwise, other than, be included,
+递进: Additionally, besides (that), beyond that,  in addition to , otherwise, other than, be included,
 Moreover, furthermore, what's more,
 
 因此： Accordingly(强调根据某种原因而得出的结果), therefore(通常指引出一个推断出的必然结论), thus, consequently(逻辑上)
@@ -287,6 +287,7 @@ Meanwhile(用作两方面的对比，另一方面则。。)
 否定加强语气：There seems to be no point in doing a course which is ...because ..
 There is also no need (in/for) ..
 never lose sight of the importance of fundamental theories.
+cannot be overemphasized.
 
 另一方面: On the other hand, on the contrary,  conversely,
 
