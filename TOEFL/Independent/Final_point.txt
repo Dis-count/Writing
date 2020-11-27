@@ -63,7 +63,7 @@ all sorts of people.
 
 6. strategically and economically.
 
-7. miscellaneous /various /assorted/diverse /all kinds of/ in a variety of ways/forms
+7. miscellaneous/ various/ assorted/ diverse/all kinds of/ in a variety of ways/forms
 a myriad of thoughts and ideas
 
 8. setback/adversity/obstacle/task/problem/difficulty/ challenges/ hardship
@@ -80,7 +80,7 @@ a myriad of thoughts and ideas
 
 12. approach/methods/ means/ ways/
 
-13. salary/compensation/money a person earns/pay/bonus/ wage
+13. salary/compensation/money a person earns/pay/bonus/income/ wage
 
 14. control/ resist the instinctual urge/
 
@@ -119,17 +119,20 @@ the world of art
 
 Basic education is a groundbreaking project to improving national quality and cultivating talents.
 
-23. cultivate/ feed/ nourishment
+23. cultivate/ feed/ foster/ nourish(ment)/ bring up/raise / boost
 
 24. distinguished/ supreme/ imposing
 
-25. benefits/ merit/ advantage/ virtue
+25. benefits/ merit/ advantage/ virtue/ gain
 25.1  advantageous/beneficial/ useful/ practical/
 25.2 by/in virtue of sth 凭借
 
 26. necessary/ imperative/ required/ integral/ essential / indispensable / requisite
 26.1 an integral part of
 26.2 play a vital role in our society/ critical/decisive/
+
+根源上 originally, root, fundamentally, without dealing with the underlying cause/ at the source.
+解决 address the cause/
 
 27. cautious/ careful / prudent/
 27.1 careless/ reckless/ rash
@@ -193,16 +196,17 @@ achievement/
 
 48. industrious/ hard-working
 
-49. 有前途的 up-and-coming
+49. 有前途的 up-and-coming/ promising
 
-50. avoid/ prevent/ (forestall)/ preclude/ forbid/ prohibit
-50.1 allow/ permit/ enable
+50. avoid/ prevent/ (forestall)/ preclude/ forbid/ prohibit/ inhibit
+50.1 allow(allowable)/ permit/ enable
 
 51. differentiate/recognize/identify/make out/distinguish
 
 52. persistence/dogged perseverance
 
-53. in this respect/ aspect/ field/ side
+53. in this respect/ aspect/ field/ side/
+    in terms of/ in the matter of/
 
 54. appeal/ call /request/ demand / beg
 
@@ -211,8 +215,33 @@ achievement/
 56. stringent/strict
 
 57. stantards/ requirement/ request/ rules/ regulations/principle
-57.1 conform to/ comply with/ satisfy/ meet/ fulfill
+57.1 conform to/ comply with/ abide by/ satisfy/ meet/ fulfill/
 
+58. result in/ lead to/ cause/ bring about
+
+59. Based on the fact that.../ in view of the present situation/ on account of / for the above-mentioned reasons/ because of
+
+60. prominently/ permenent
+
+fortitude(坚韧)/ courage/ willpower/ strength of will
+
+61. mild / slight/ gentle/ tenuous/
+61.1 ability/ capacity/ capability/
+
+62. relevant / be related to/ be bound up with
+have no direct relevance to this question
+
+correlation (between A and B) | ~ (of A with B)
+adverse impact
+
+63. negligence/error/mistake/ carelessness/
+
+64. considerate/ attentive /thoughtful
+
+65. mean / imply / signify/ refers to/ state clearly/ indicate/ make known / declare/ manifest
+
+66. 站不住脚  cannot hold water
+inconclusive/ convincing/ make sense/unpersuasive
 连接词：
 递进: Additionally, besides that, beyond that,  in addition to , otherwise, other than, be included,
 Moreover, furthermore, what's more,
@@ -240,7 +269,7 @@ Meanwhile(用作两方面的对比，另一方面则。。)
 
 否定加强语气：There seems to be no point in doing a course which is ...because ..
 There is also no need (in/for) ..
-never lose sight of/ turn a blind eye to/neglect/ miss/ overlook/ ignore
+never lose sight of/ turn a blind eye to/neglect/ miss/ overlook/ ignore /be left by the wayside
 the importance of fundamental theories.
 cannot be overemphasized.
 
@@ -252,7 +281,7 @@ cannot be overemphasized.
 
 即使: Even so, Granted that,
 
-不可否认： There is no denying(doubt) that/ Visiting is undeniably a good way to enjoy oneself /It is undeniable that the economic picture is brightening.
+不可否认： There is no denying(doubt) that/ Visiting is undeniably a good way to enjoy oneself /It is undeniable that the economic picture is brightening./unarguably
 It is undeniable that mobile phones have facilitated our lives in many different ways.
 It is indisputable that the crime rate has been rising/ The indisputable fact is that .....
 
@@ -265,3 +294,14 @@ diagree with/ opposite to sth/ differ from/
 be committed to..  devote oneself to... be dedicated to...
 
 Achieving success at this level requires a commitment of time and energy.
+
+
+
+(根据文中所述) In accordance with/ according to/ by saying that/ what the passage indicate/ by demonstrating the evidence mentioned above.
+
+(阅读)指出: indicate/ suggest/ believe/ state/
+
+(听力)反驳: argues/ points out/ claim/ mention / demonstrate/ contend/ make the point that/ elaborate one's perspective with the evidence that/ illustrate one's disagreement
+deem/ assert
+
+If you procrastinate, you keep leaving things you should do until later, often because you do not want to do them.
