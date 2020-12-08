@@ -34,11 +34,13 @@
 
 基本要求：
 信号词的获取：
+分层：
+Now, let's, in fact/actually
 连词：
-but，while, however, even if, because, so, and until just recently,
-well,
+but, while, however, even if, because, so, and until just recently,
+well, Finally
 例子：
-example，say  (特点是  突然在一个学科内容里跳了出去，必考。想要表达的观点，或在之前或在之后但是一定是有信号词的。例子找到主干就行，听不听懂不重要)
+example, say  (特点是  突然在一个学科内容里跳了出去，必考。想要表达的观点，或在之前或在之后但是一定是有信号词的。例子找到主干就行，听不听懂不重要)
 
 插入成分：
 I guess, you know
@@ -114,6 +116,7 @@ TPO 8
 
 TPO 10
 
+I wouldn't mind hanging it over my couch.
 
 ===================================================
 对话总结：
