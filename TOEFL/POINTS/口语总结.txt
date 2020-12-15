@@ -1,11 +1,5 @@
 Task 2 实例实例实例
 
-unheaval
-disruption
-translucent
-transcript
-transcribe
-
 1. 方便 & 效率 (Convenience & Efficiency)
 方便 -- 互联网，快递运输，外卖，生活工作上，
 效率 -- 快，时间，空间（交通工具），
@@ -289,12 +283,17 @@ Just as proverb puts it, every coin has its two sides.  ...also has its advantag
 
 总结型
 From what has been discussed above, we could safely draw the conclusion that/we can come to the conclusion that...
+
 Taking all the factors above into account, I insist that...
+
 As is indicated above...
+
 to sum up, in short, in a word.
 
 self-evident
+
 lead to/brought about a series of problems on...
+
 It's heart-struck that... has caused enormous losses to those involved.
 
 
