@@ -1,4 +1,4 @@
-
+2020-12-19
 
 18 那个时候老师有时间，指导会非常清晰，但因为自己知识储备不够，往往不知道怎么去做，缺少解决问题的方法。
 
@@ -44,3 +44,37 @@
 承压能力上要提高。
 不足：  Lag + Inv 流于表面
 后面可以和合作者进行 学习，交流经验。
+
+===============================================================
+问题背景： 盒马生鲜  下单之后，进行路径规划计算，为了尽可能增大配送时间，只能减少计算时间
+Background: Hema
+Cut-off time
+Delivery plan
+Delivery Efficiency
+Lead Time:
+Computational Time of Planning Delivery
+Planning in Advance
+(Weather) Forecast?
+Confirmed Orders and Unconfirmed Orders:
+Possible Set of Orders --- Scenario
+Similar to Multiple Objective problem
+Common Features of Different Scenarios
+Algorithm Design
+Optimal Algorithm for Deterministic Problem
+Heuristic Algorithm for Stochastic Problem
+Genetic Algorithm  有确定和不确定的，有这个特点所以选用这个算法。
+      Information Update
+      Instant Delivery Plan and Solutions for Multiple Problems
+Computational Results
+Conclusion and Future Research(TSP -> 容量限制，车辆 VRP 符合现实场景)
+总结很重要，因为听众会遗漏信息。在中间也可以使用总结，给听众回馈，起逻辑上的承接作用。
+贡献： instant solution(及时路线)
+
+摘要abstract作用，介绍introduction作用和以前人做的区别，conclusion其承接作用(承全文启未来工作)/future research
+
+Abstract 背景 问题 建模 求解 结果。
+
+前后一致，逻辑关系，词汇(冠词)准确(没提到的东西不能用the,前文没提到不能用this)，连接词，
+（专业词汇 the TSP,see 文献），同时要抓住重点。写给谁看，目的是什么，句间的关系。
+
+写作到最大的程度。
