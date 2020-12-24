@@ -255,10 +255,12 @@ inconclusive/ convincing/ make sense/unpersuasive
 67.1 change, alter, modify, adjust, transform, vary
 67.2 widely, greatly, largely, increasingly, considerably(vary), significantly, substantially, well.
 
-68. squander, waste,
+68. squander(浪费), waste,
 
 69. attempts to prevent a recurrence of the problem
 address the problems   settle the disagreements
+
+70. settlement/resolution
 
 连接词：
 递进: Additionally, besides that, beyond that,  in addition to , otherwise, other than, be included,
@@ -330,3 +332,4 @@ fills my mind with a myriad of thoughts and ideas
 This is just one of a myriad of possible probability distributions.
 At present XXs play an increasingly important role in a myriad of applications.
 Today, you can find a myriad of other forms of entertainment.
+aggregate demand/investment/turnover(成交量)

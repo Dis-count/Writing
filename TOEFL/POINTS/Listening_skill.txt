@@ -47,7 +47,7 @@ Realism：在艺术上，现实主义指对自然或当代生活做出准确的�
 Now, let's, in fact/actually
 连词：
 but, while, however, even if, because, so, and until just recently,
-well, Finally , Suddenly, instead, again, also
+well, Finally , Suddenly, instead, again, also, First
 例子：
 example, say  (特点是  突然在一个学科内容里跳了出去，必考。想要表达的观点，或在之前或在之后但是一定是有信号词的。例子找到主干就行，听不听懂不重要)
 
@@ -55,7 +55,7 @@ example, say  (特点是  突然在一个学科内容里跳了出去，必考。
 I guess, you know, in that sense
 
 表程度的形容词：
-significant, really, only, all, little, must, much more, actually, probably, well， 比较级 than，最高级 most, as opposed to 对比
+significant, really, only, all, little, must, much more, actually, probably, well， 比较级 than，最高级 the most, as opposed to 对比  so much as
 
 **************************************
 Listening words you do not recognize(辩音 或者是 不认识的词组
@@ -209,6 +209,7 @@ spinach  菠菜
 forged banknote  假钞
 
 TPO 27
+library holdings 图书馆藏书
 travel agency   旅行社
 thorough  彻底的 深入的
 go over  认真讨论
@@ -251,6 +252,24 @@ incubate  孵化
 ferocious  凶残的
 fuel  v.增加 加强 刺激
 brood  v.忧思，孵蛋
+enamor  使倾心，使迷恋
+venue  会场
+
+TPO 31
+thought-provoking  引起思考的
+participatory government  参与性政府
+instill  浸染 滴注
+fabric (of the society) (社会)结构
+approach lecture  接洽讲座
+creep 不知不觉产生，渐渐影响
+conceivably  可想象地
+as of now 从现在起，目前来看
+get this straightened out  解决这个问题
+mass feeding frenzy  大量进食狂潮
+perennial  长久的 持续的 多年生的
+pens and corrals  围栏
+manure  粪肥
+year around 全年
 ===================================================
 生词总结：
 ad
@@ -290,7 +309,21 @@ primordial  原始的 原生的
 instigate  使(正式)开始;使发生;煽动;唆使;鼓动
 spout (容器的)嘴;(喷出的)水柱，液体柱  喷出,喷射;喋喋不休地说
 delineate  (详细地)描述，描画，解释
-
+racetrack  跑道 赛道
+grayhound  灰狗巴士
+panoramic  全景的
+retractable claw 可缩回爪子
+paw pad  爪垫
+collarbone 锁骨
+adrenaline/adrenal
+glycogen  糖原
+retina  视网膜
+acuity  敏度，敏锐
+falter  衰弱衰退颤抖
+stealth  偷偷摸摸
+inbreed 近亲繁殖
+foil  箔，挫败
+sack  v.解雇，破坏 n.麻袋
 ===========================================
 Vocabulary
 1-20
@@ -337,6 +370,7 @@ lineage   血统/传承
 trajectory  轨道/轨线
 uncanny  离奇的
 allegiance  忠诚
+consecutive  连续的
 artsy/arty
 fleck  斑点
 transient  短暂的，路过的
