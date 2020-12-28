@@ -28,12 +28,12 @@ Realism：在艺术上，现实主义指对自然或当代生活做出准确的�
 有社会影响的必考。
 
 
-1. 听力大致听懂了之后, 如果不是特别细节的东西其实可以分析出来, 不要抱着试一试去选择, 一定要有理有据. (不要靠自己推断脑部，直线思维别猜，是什么就选什么，大部分一推就错)
+1. 听力大致听懂了之后, 如果不是特别细节的东西其实可以分析出来, 不要抱着试一试去选择, 一定要有理有据. (不要靠自己推断脑补，直线思维别猜，是什么就选什么，大部分一推就错)
 2. 选项中不太确定的两项,大部分其实是可以分析出来的.
 
 3. 先把选项完全弄明白, 防止因为理解错题意而选错. 结合本文的题意主旨去选答案, 而不要被答案误导觉得答案说的挺对, 但实际上并不是文章想要表达的意思.
 
-4. 要注意提到突然提到别的领域的时候，必考好吧。
+4. 要注意提到突然提到别的领域的时候，必考好吧。（类比，解释，例子。。）
 
 5. 再总结一下，一定要弄懂选项什么意思，如果觉得选项意思差不多那就是自己把其中一个的意思理解错了，一定不要被选项牵着鼻子走(误导)，因为这个还是非常clear，不存在ambiguous terms.
 
@@ -55,7 +55,7 @@ example, say  (特点是  突然在一个学科内容里跳了出去，必考。
 I guess, you know, in that sense
 
 表程度的形容词：
-significant, really, only, all, little, must, much more, actually, probably, well， 比较级 than，最高级 the most, as opposed to 对比  so much as
+significant, really, only, all, little, must, much more, actually, probably, well, 比较级 than，最高级 the most, as opposed to 对比  so much as
 
 **************************************
 Listening words you do not recognize(辩音 或者是 不认识的词组
@@ -89,16 +89,16 @@ lab assignment
 
 curator  馆长
 
-sprung (up and were then sold) for huge amounts of money
+sprung (up and were then sold) for huge amounts of money 迅速发生
 
 hail from (来自于，出生于)
 
 TPO 6
-But there was one thing that really did jump out at me.
+But there was one thing that really did jump out at me. 朝我过来
 
 get into sth  学会，熟悉，习惯于
 
-dwindle  减少 缩小
+dwindle  减少 缩小/ mitigate 减轻缓和
 
 TPO 7
 feuding  长期争斗
@@ -106,7 +106,7 @@ feuding  长期争斗
 That's why I want to pitch in. 参与;协力
 
 TPO 9
-draw in
+draw in  参与
 
 exposition
 
@@ -118,10 +118,13 @@ drop off my graduation form.
 
 show a knack for ///技能，本领
 
+suspend disbelief  暂且相信
+
+chop up 切碎
 
 TPO 10
 
-I wouldn't mind hanging it over my couch.
+I wouldn't mind hanging it over my couch. 挂在沙发上
 
 TPO 12
 plaza  露天广场
@@ -158,7 +161,7 @@ a glowing letter  热情洋溢的信
 TPO 21
 I barely stayed awake
 
-far-fetched
+far-fetched  牵强的 难以置信的
 weren't
 
 TPO 22
@@ -234,7 +237,7 @@ fortify  加强增强
 TPO 29
 hardwood forest 阔叶林
 topple over  倒塌;推倒
-rip up
+rip up 撕碎
 one-way street
 That being said  话虽如此
 lighthearted  无忧无虑的
@@ -270,6 +273,32 @@ perennial  长久的 持续的 多年生的
 pens and corrals  围栏
 manure  粪肥
 year around 全年
+
+TPO32-44
+have this uncanny knack for creating 不可思议的本领
+pedagogical  教育学的
+acclaimed novelist 著名小说家
+contrived  做作的 不自然的
+antic  古怪的，滑稽的
+in the nick of time  在紧要关头
+chirpy 快活轻松的
+settler 移民 殖民者
+reclamation 开垦，改造
+large vats of  大桶
+penchant  爱好
+broom 扫帚
+downplay 轻描淡写 轻视 ingenuity 独创性
+speak volumes 很有意义，含义很深
+take the job on the side  把这个工作作为兼职
+take the day off  请假
+ink cartridge  墨水盒
+play it safe  谨慎行事
+void 无效，缺乏，空白 trauma 痛苦经历，挫折
+nasty 令人不悦的，危险的
+villa  乡间庄园，别墅
+lavish 滥花，慷慨的/lavishly 浪费地
+sacrificial vessel 祭器
+nifty 漂亮的，极好的
 ===================================================
 生词总结：
 ad
@@ -284,7 +313,7 @@ statute   法令
 statue   雕塑
 avail  有益于
 designate  指派 指明
-disposition  性情 倾向(to/towar)
+disposition  性情 倾向(to/toward)
 dividend   红利股息
 dole  救济
 epilogue  收场白   prologue  开场白
@@ -315,7 +344,7 @@ panoramic  全景的
 retractable claw 可缩回爪子
 paw pad  爪垫
 collarbone 锁骨
-adrenaline/adrenal
+adrenaline/adrenal 肾上腺
 glycogen  糖原
 retina  视网膜
 acuity  敏度，敏锐
@@ -324,16 +353,17 @@ stealth  偷偷摸摸
 inbreed 近亲繁殖
 foil  箔，挫败
 sack  v.解雇，破坏 n.麻袋
+tinge 着色，微量少许
 ===========================================
 Vocabulary
 1-20
 tale -- tell
 sort -- sword
 mall
-colossal
-carol
+colossal  巨大的
+carol  圣诞颂歌
 haven   避风港
-stretch  流域
+stretch  一片，一段时间，延续
 immediately  i发音很轻
 contemporary
 mature
@@ -367,7 +397,7 @@ cyclical  循环的
 clamor   喧闹
 forefront  前沿前线，重点
 lineage   血统/传承
-trajectory  轨道/轨线
+trajectory  轨道/轨线  tributary  支流
 uncanny  离奇的
 allegiance  忠诚
 consecutive  连续的
@@ -381,12 +411,15 @@ paradigmatic  范例的
 volatile  不稳定的
 versatile  多变的
 archer  弓箭手
+archway 拱门
 vicious  堕落的
 foresight  远见
 conservatory  温室，音乐学院
 dispersal  疏散 传播
 tongue  语言 舌头
 ruffle  烦恼，扰乱
+allocate
+ward  监视 保卫
 goof off/around  打发时间
 tantalizingly  诱惑地
 pragmatic  实用的
@@ -396,9 +429,25 @@ recap  回顾
 allude 暗指
 plumb  钻研，恰好
 portage  陆上运输
+meticulous 小心翼翼
 
 51-60
 preconceived  预先形成的，预想的
+wilderness  荒无人烟的地方，荒野
+clog  堵塞
+biggie  大人物
+celestial  天上的
+altruistic 利他的
+go overboard 过分热情，全身心投入/ throw sth. overboard 扔掉
+incompatible  不兼容 不一致
+lofty    高级的，高傲的
+squirt   喷射 squirt people with water
+theatrical  戏剧的，夸张的
+blemish  缺点，玷污
+toss 颠簸，投掷
+resounding  巨大的，瞩目的，响亮的
+gully  溪谷，深沟
+transverse 横向的
 ===========================================
 需要重复听的
 2-6.
