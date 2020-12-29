@@ -1,0 +1,114 @@
+ETS口语评分的规则是根据Lyle F. Bachman 和 Adrian S. Palmer在Language Testing in Practice——Designing and Developing Useful Language Tests论文中的要点为测试模型设计基础：衡量Communicative competence的 Rubric dimensions包括：
+
+
+
+Fluency输出流利, Pronunciation发音正确, Prosody声韵, Vocabulary Range口语词汇量, Sophistication句型复杂度, Grammatical Accuracy and Complexity语法正确和复杂度, Content内容丰富, Aspects of Discourse辩论推理。
+
+
+
+因为ETS设计的托福测试模型受众并非是语言专业人群，所以上述规则被精简为：Fluency, Pronunciation, Prosody, Vocabulary Usage, Grammatical Expression, and Content. 由此归类为托福口语评分的三大规则：
+
+
+
+1. Delivery传递表达：
+
+（1）口齿清晰（日常说话舌头懒很吃亏）
+
+（2）答题连贯（超过3秒卡壳就算不连贯）
+
+（3）发音准确（元音、辅音的唇齿舌配合到位，ETS不奢求你像native speaker一样地道）
+
+（4）节奏自然（不要忽快忽慢，背忘词了很尴尬）
+
+（5）语音语调（有抑扬顿挫切忌语调平平）
+
+
+
+注：这部分的训练方法，《清北托福备考联盟慕课——口语篇》（腾讯教育、B站公开课均可搜）中有提供；另外一篇知乎的答题在 3 个月之内准备托福，想要达到 100+数据模型报告中我也有列出了免费学习资源。
+
+
+
+2. Language Use语言应用：
+
+（1）语汇使用恰当多样（先恰当再多样）
+
+（2）句型灵活搭配（状定同位语分词运用自如）
+
+（3）语法无误（中国同学常犯单复数、冠词、主谓时态等问题）
+
+
+
+注：到底怎样的词汇输出才能达到要求，我们还是以ETS的发表论文数据为参考，下表中ETS给出了独立任务和综合任务的Good Level满分级别的数据统计（下图红框）。
+
+
+
+满分独立任务答题实际输出词100词就足够拿到满分；满分综合任务答题实际输出词约138词就足够拿到满分。在这些满分口语答题中，82%都是GSL 1K（General Service List）级别的基础词汇，而GSL 2K级别的高级词汇仅占4%-5%。
+
+图片
+
+GSL 1K词表参考：http://englishtestprepreview.com/toefl-english-strategies-to-know/toefl-vocabulary-strategies/736-tips-and-strategies/english-tips-strategies/english-vocabulary-strategies/1248-general-service-list-gsl-1000-words
+
+
+
+3. Development论述拓展：
+
+（1）观点明确回应题目（机评可以鉴别是否跑题）
+
+（2）例证拓展细节丰富（通过神经网络学习，机评可以通过采样对比判断内容拓展是否达标）
+
+（3）答题时间分配合理（如果答完一看还差5秒才到时间，就是时间分配不合理；当然允许超时，前提是已经足够论述，即便超时也无大防碍）
+
+
+
+注：这部分的训练方法，《清北托福备考联盟慕课——口语篇》中有提供（腾讯教育、B站公开课均可搜）；对于综合任务的笔记训练方法，可以在托福听力的练习过程中一起练快速笔记复述，不一定只抓着口语练笔记，要充分榨干每一套题的练习潜力。
+
+
+1. Spoken Response，首先接收考场里的音频信号。我们答题的音频并不是平时听歌曲的CD音质，而是采样率较低的电话音质，所以这对我们答题时的环境有一定的要求。
+
+
+
+比如特别吵杂（旁边一堆人激励哇啦使劲喊着答题），或者答题人喜欢挨着话筒非常近喷麦（气流的传导声），都会影响音频信号的上传质量。所以，国内的同学们要注意考场文明答题，大声喊着答题不但对别的同学造成噪音干扰，而且自己的麦克风收音也会因喷麦爆掉。
+
+
+
+2. ASR（Automatic Speech Recognition），然后进行第一步音频信号识别。在Signal Processing中，那些口齿不清晰、发音不标准的音频都会被标记为识别失败，这就跟写作系统的e-rater原理一样，一句话如果主谓宾单词都拼错了，机器只能判定本句作废；
+
+
+
+同理：因为口语发音不到位导致引擎无法识别发音信号，即便答了100个词，也可能因为识别不出而判定某句作废。目前SpeechRater的引擎辩音识别度能够达到95%以上的准确识别率，可以完全替代人工24小时不间断地投入工作。
+
+
+
+3. Feature Generator
+
+这分为两项，一项是Scoring Features，就是把识别出来的语音信号按照评分原则逐项评级；同步进行的是Similarity Features，就是作弊查重。
+
+
+
+ETS喂了很多数据给这个“作弊查重”模组，尤其对于大陆同学广为流传的：“20G\30G 托福资料网盘转发”或者“某金80题”等烂遍街的转发材料，ETS都可以直接把这些朋友圈满天飞的内容导入模组，查重属实自动判定0分也不再给与复议资格。
+
+
+
+趋于本文的篇幅和读者受众是考生为主，这里就不再赘述晦涩的Feature Computation Modules迭代。
+
+
+
+4. Filtering Model，这是在SpeechRater的历次升级中，提升最显著的模组，用于过滤掉无效答题内容：non-scorable (NS) responses。可以理解为，考生自认为有用的内容，但实际上蛋用没有。
+
+
+
+对于国内同学来说，最常见的比如：中文作答，唱一首歌，背一段新概念第三册短文，亦或是在自己的答题中加入自认为很“洋气”的词，诸如：Well…, You know…, when we are talking about…, I believe this is a thought provoking question… 这些不知道是谁教给你的但实际上会被Filter Model模组直接过滤掉的信息，根本不会进入Scoring Model，对提分蛋用没有。
+
+
+
+5. Scoring Model
+
+在经过了对不清晰发音信号、无效答题信息、查重抄袭嫌疑的一系列数据过滤后，能够进入到打分模型的肯定不是同学们在答题时自己感觉的那样：我感觉挺好啊，我说的很流利啊，我语速不错啊，我答完了啊。
+
+
+
+趋于本文的篇幅和读者受众是考生为主，这里不再赘述Multiple Regression Scoring Model的迭代，只需提醒一点，借助人工智能在这两年的突飞猛进，SpeechRater评分的人工校对准确率从73%提高到了82%。
+
+
+
+尤其是Delivery和Language Use两项在配备了Filtering Model的深度学习后，可以准确判定70%的考生被刷在23分以下了：如果你的分数在22分及以下，大可不必操心复议提分，因为你已经没有资格享受人工判分的机会了，人工也听不懂这娃到底在嘟哝些啥。
