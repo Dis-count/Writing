@@ -18,15 +18,31 @@ Expressionism：表现主义是艺术家通过作品着重表现内心的情感�
 
 Realism：在艺术上，现实主义指对自然或当代生活做出准确的描绘和体现。现实主义摒弃理想化的想像，而主张细密观察事物的外表，据实摹写，它包含了不同文明中的许多艺术思潮。
 
+Dada：反艺术，讽刺的是，尽管达达主义如此的反艺术，达达主义本身就是现代主义的一个重要的流派。“达达”作为对艺术和世界的一种注解，它本身也就变成了一种艺术。
 
 自然科学类：天文/地质/环境/生态/化学材料/物理
 基本是同样的套路：
+
+地质学
+Pleistocene 更新世
+这一时期绝大多数动、植物属种与现代物种相似。显著特征为气候变冷、有冰期与间冰期的明显交替。
+更新世中期是全球气候和环境变化的一个重要时期，当时气候周期转型，全球冰量增加，海平面下降，哺乳动物迁徙或灭绝。
+Holocene 全新世  11700 - Now
+
+考古学
+Paleolithic  旧石器时代 距今约300万年 以使用打制石器为标志的人类物质文明发展阶段.
+Mesolithic   中石器时代 全新世初期 由严寒转为比较温暖, 经济生活仍为采集和渔猎，使用打制石器或琢制石器，磨制石器尚未出现
+Neolithic  新石器时代 约从一万多年前开始，结束时间从距今5000多年至2000多年
+以使用磨制石器为标志的人类物质文化发展阶段
+公元前4000  青铜器时代  第一种广泛利用合金  与熔点有关--低  800
+公元前2500  铁器时代   三时代系统
 
 生命学科：生物学/动物学/植物学/海洋生物/解剖/生物原理
 
 社会科学：考古/历史/人类/社会/心理/语言/哲学/教育/经济商业
 有社会影响的必考。
 
+cuneiform 楔形文字  Sumerians 苏美尔人  hieroglyph  象形文字
 
 1. 听力大致听懂了之后, 如果不是特别细节的东西其实可以分析出来, 不要抱着试一试去选择, 一定要有理有据. (不要靠自己推断脑补，直线思维别猜，是什么就选什么，大部分一推就错)
 2. 选项中不太确定的两项,大部分其实是可以分析出来的.
@@ -303,6 +319,25 @@ villa  乡间庄园，别墅
 lavish 滥花，慷慨的/lavishly 浪费地
 sacrificial vessel 祭器
 nifty 漂亮的，极好的
+inception 开始开端
+stale  不新鲜，陈腐，难闻的
+attic  阁楼
+catch on 明白认识到，流行.
+plumbing system 管路系统
+for all along  一直以来，很长时间
+drive out 驱逐 淘汰
+fall apart/ fall to pieces 崩溃，解散，垮掉
+To the casual observer  乍看起来
+however slight  无论多么微小
+paramecium  草履虫
+lay down the basics 规定标准
+composted vegetable 堆肥蔬菜
+cellulose  纤维素
+humus  腐殖质
+whereby  by which; because of which 凭借，借此
+poise  保持姿势；稳重，沉着自信
+granary  谷仓
+shut out  排除 摒弃
 ===================================================
 生词总结：
 ad
@@ -358,6 +393,39 @@ inbreed 近亲繁殖
 foil  箔，挫败
 sack  v.解雇，破坏 n.麻袋
 tinge 着色，微量少许
+stool with a bicycle wheel mounted on top 顶部装有自行车轮子的凳子
+self-contained  人格独立 自给自足
+landfill  废物填埋场
+sludge  生活污物，淤泥
+food scrap
+marginally 轻微地
+generalist  多面手，全才
+ebb 衰弱，减退
+bicycle / spoke 辐条
+generic / genetic
+mortar  研钵
+no one contesting 没有人提出质疑
+barley husk  外壳
+tapestry  挂毯
+embroiderers to sew  刺绣者 缝
+rightful heir  合法继承者
+reed 芦苇 mats 垫子
+whitish paste 白色 面团
+profusely  繁茂地
+slam into  猛烈撞击
+extraterrestrial origin  外星起源
+infusion  注入，灌输
+scant  不足的  with scant/no/little regard for safety/consequence/learning.
+remuneration  薪水
+marshal  维持秩序，安排
+spun or wove  (spin and weave)
+grossly 极度地，非常 incomplete/inadequate
+doom and gloom  绝望沮丧，无望
+lethal  致命的
+fusion 聚变/fission 裂变
+unfathomable 难以理解的;莫测高深的/ fathom
+diffuse  弥漫的，扩散的
+parch 使干燥/parched 晒焦的
 ===========================================
 Vocabulary
 1-20
@@ -410,6 +478,7 @@ fleck  斑点
 transient  短暂的，路过的
 
 41-50
+varnish
 evaluation  评价，估价
 paradigmatic  范例的
 volatile  不稳定的
