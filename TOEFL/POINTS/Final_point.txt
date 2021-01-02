@@ -54,7 +54,7 @@ Important word/sentence to replace:
 
 4. be occupied with/busy/
 
-5. become increasingly + adj.  accumulating
+5. become increasingly + adj.  accumulating  progressively
 a growing/increasing number of + n.
 a large/enormous/immense amount of 不可数
 a great number of/plenty of/  可数
@@ -338,3 +338,5 @@ This is just one of a myriad of possible probability distributions.
 At present XXs play an increasingly important role in a myriad of applications.
 Today, you can find a myriad of other forms of entertainment.
 aggregate demand/investment/turnover(成交量)
+
+After spending a wonderful holiday over the New Year period, some people feel blue and find that it's difficult to function normally in their daily rhythm.
