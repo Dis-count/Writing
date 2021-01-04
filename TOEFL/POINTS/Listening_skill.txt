@@ -345,14 +345,14 @@ scale back a bit 缩减一点
 charge admission 收门票
 intermission  间歇
 unwind  放松，解开
-A word of caution, though: Vasari was not at all averse to-how should I put it?-modifying the facts.
+A word of caution, though: Vasari was not at all averse to-how should I put it?-modifying the facts.   反对的  不乐意的
 getting to the point 说到重点
 pigmentation  染色
 set off  出发；点燃，引起
 headgear  帽子
 shrivel  枯萎 干枯
 hand over fist 迅速而大量的
-austerity   (经济的)紧缩;严格节制消费;苦行;禁欲;艰苦;朴素
+austerity   (经济的)紧缩;严格节制消费;苦行;禁欲;艰苦;朴素  paucity  少量
 blurb  (书籍封面的)简介;(生产商等的)产品推介
 booth  临时货摊
 scales and tonalities  音阶和音调
@@ -368,6 +368,11 @@ fit it into the regular time
 microbial mats  微生物垫
 through the lens of evolution  通过进化的角度
 wavy  波浪型的
+mechanical conveyance  机械运输
+earth-shattering
+shorthand  简略表达， 速记
+magenta 洋红色
+Connotative 内涵的
 ===================================================
 生词总结：
 ad
@@ -419,7 +424,7 @@ retina  视网膜
 acuity  敏度，敏锐
 falter  衰弱衰退颤抖
 stealth  偷偷摸摸
-inbreed 近亲繁殖
+inbreed  近亲繁殖
 foil  箔，挫败
 sack  v.解雇，破坏 n.麻袋
 tinge 着色，微量少许
@@ -456,6 +461,13 @@ fusion 聚变/fission 裂变
 unfathomable 难以理解的;莫测高深的/ fathom
 diffuse  弥漫的，扩散的
 parch 使干燥/parched 晒焦的
+toehold  立足点
+buoyant  乐观的 繁荣的
+vicissitude  变迁 沉浮
+rend 撕碎/ rent  分裂分歧，断口
+collectively  全体地
+downstream  downriver/ upriver
+mesh  n.网状物  困境 v. 匹配
 ===========================================
 Vocabulary
 1-20
@@ -508,7 +520,7 @@ fleck  斑点
 transient  短暂的，路过的
 
 41-50
-varnish
+varnish   上漆  vanish  消失
 evaluation  评价，估价
 paradigmatic  范例的
 volatile  不稳定的
@@ -564,8 +576,8 @@ appease  安抚
 equitable 公正合理的
 get-go  一开始
 piping hot 烫手的
-printout 打印资料
-workshop 研讨会 讲习班
+printout  打印资料
+workshop  研讨会 讲习班
 statuary  雕塑
 frontality/frontal 正面
 flutter 飘动，振动
