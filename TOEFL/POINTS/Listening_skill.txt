@@ -588,7 +588,8 @@ workshop  研讨会 讲习班
 statuary  雕塑
 frontality/frontal 正面
 flutter 飘动，振动
-
+aloof
+curate
 ===========================================
 需要重复听的
 2-6.
