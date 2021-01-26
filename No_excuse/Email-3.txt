@@ -1,33 +1,57 @@
-Summary  突出过程中学到了什么
+Dear Prof. Qi,
 
-1. Report your English score.
+Greetings.
 
-I will continue to improve my listening ability.
+The following sections are about the summary of the last few months, the plan for the next several months, and questions about the application, respectively.
 
-2. Publish a Chinese paper which is already accepted.
-Learned the standard procedure through this paper submission.
+Summary.
+1. Report the English score.
 
-3. Help to revise the paper written by Liu on MMOR.
-Paste URL.
-Through this, I learned my limitation on writing.
+Toefl score:
+Reading:  29   Listening: 19
+Speaking: 19   Writing:   24
+Total:    91
+Although the result is not good enough, I have recognized my own insufficiency through the exam.
+And I will continue to improve my listening and speaking ability.
 
-4. Making a PPT on
-Organize the knowledge of Basic optimization. Help me to
-Help Practicing my speaking ability and building knowledge framework.
+2. In July 2020, I contributed a Chinese manuscript to the journal, Operations Research and Management Science. The topic of this paper is about the Inverse Uncapacitated Facility Location Problem which was proposed by Prof. Liu. Besides, I did most of the work and the paper is already accepted recently.
+Though the difficulty of this paper is not high, I learned a lot from the standard procedure through this paper submission, especially the academic norms.
+Attached please find the paper if you have an interest.
+
+3. From June to September 2020, I was working on two PPTs. One is about my main research work, the machine scheduling game, for a conference. I learned a lot from Prof. Liu through making this PPT, such as the style and skills of expression. The other is about a summary of basic optimization knowledge I presented to my colleagues, which helped me establish a well-organized knowledge system and lay firm foundations for the future research.
+Attached please find the PPTs if you have an interest.
+
+4. In October, I revised the manuscript Prof. Liu submitted to MMOR.
+Through writing the reply to referees' comments, I learned a large quantity of writing skills from Prof. Liu, which helped me to improve my writing ability.
 
 
 Plan
-1. The next month, I will finish
-The main task is to finish the dissertation. And
+1. In the next two months, I will finish my dissertation and the paper of research on the Machine Scheduling Game.
 
-2.
-
+2. After finishing the Plan 1, I will continue to work on the topic you proposed last summer.
+About the topic, I will introduce the progress in the following section, Questions.
 
 Questions
-1. The topic of the research proposal
+1. About the research plan in the application, I want to write about the topic mentioned above.
+The core content is about how to maximize the interval and spacing in two dimensions of time and space, the
+application scenarios could be cinemas, study rooms, hospital appointments and so on.
+
+2. About the research topic.
+At first, I modelled this problem as a VRP problem with time windows. Give the sequence of each room(vehicle for VRP) and the corresponding service start time, then use the rule, first in first out, we can obtain the specific assignment for the coming customers with the aid of the Solver. Next here comes a question: how to determine the objective function? In the beginning, I set it as an additive form which is obviously not appropriate because we have to consider the overall effect of time and space. Thus, we can use a function of time and space to express this overall effect. By searching the related literatures, we set the main form of the function as concave because the improvement of satisfaction gradually decreases with the increment of space. And the basic form could be the simple form: multiplying. Furthermore, we find that the specific time windows is not necessary as we just need to classify the different demands of customers by morning, afternoon and evening. Based on that, I modelled this problem as a multiple knapsack problem with assignment constraints but the objective is the minimax of the room space occupied by customers because we want to disperse customers as much as possible. The assignment constraints originate from the space constraint, which is that the capacity of room must exceed the number of customers. Therefore, I designed a heuristic algorithm to solve this problem.
+The first step is that divide customers into different groups according to room capacity. Because of the similarity between this problem and the k-partition problem, we can calculate the average ratio of customers to room capacity. With this ratio, we can obtain the occupied upper limit capacity of each room. For each room, the sorted group of customers could be scheduled according to dynamic programming. However, there are still some problems to be fixed for this algorithm and I will keep trying other methods.
+
+3. The basic idea is presented above, and I will add a few more details in the research plan.
+
+If you have any advice on this, please contact me.  Thank you very much.
+
+
+Sincerely,
+
+Zikang Li.
+
+insufficiency: lack of reality  and the depth is not enough.
 
 ----------------------------------
-
 Today's Plan:
 
 Finish the frame of this email.
@@ -45,9 +69,7 @@ Or specific?
 
 2. About DP algorithm
 
-
 3. signature
-
 
 4. 给老板的一些建议：
 有些东西不教 是想让我们自己探索？
@@ -56,3 +78,66 @@ Or specific?
 团队问题总结
 
 RP: 围绕一个中心问题 进行研究
+
+
+=======================
+
+大规模  最优化原理
+
+1. Please describe your experience or participation in research projects
+
+1.1 Machine scheduling Game
+
+1.2 UFL Inverse optimization
+
+If necessary,
+
+2. 	Please describe your proposed research topic
+The description should include the general field of the research and the specific research question(s)
+
+
+3. Please describe your proposed plan and, if applicable, provide references or citations
+
+The description should include detailed project aims and objectives;
+the research methodology or approach;
+your experience, participation in research projects, or preliminary results that support the feasibility of the work (if applicable);
+the significance, originality and / or anticipated impact of the work.
+
+Vision Statement
+1. Reasons for wishing to pursue PhD / MPhil Studies in Hong Kong
+Hong Kong has always been the city where I want to live and study.
+First of all, I really expect to experience a different culture after several years on the mainland. However, the European and American countries will have totally different cultural environments which I could find it quite difficlut to fit in.
+Besides, many universities in Hong Kong have a strong academic atmosphere which is exactly what I have expected for a long time. Especially for HKUST, not only the dense academic environment appeals to me, but the campus scenery is also amazing.
+Finally, most of my family are in Shenzhen, so staying close to home is also another crucial factor to consider.
+
+2. Long-term career plan, aims and interests for future development after graduation
+
+Now that I want to obtain my PhD studies, there is no doubt that I will continue to pursue my academic career after graduation. Thus, the top choice of my career will definitely be a teaching job. In my eyes, it is admirable to be a distinguished scholar who can make a great contribution to the development of society as well as the world.
+If everything goes well, I will go on postdoctoral research to accumulate enough experience and cultivate the ability of independent research. After that, I will look for a teaching position to keep on my scientific research.
+
+但与此同时 我会关注产业界的动态 最终都是希望能够做出贡献 这也是作为科研学者成就感的来源
+
+3. Contribution that you would like to make to the development of research in Hong Kong and to the society
+
+I expect to make valuable scientific studies on the practical problems in Hong Kong if there are suitable opportunities.
+But at the same time, I will pay attention to the dynamics of the industry and hope to make the corresponding contributions. That is also the source of the sense of achievement of scientific research.
+
+希望自己的研究能够帮助 产业升级
+
+4. The intellectual vision and aspirations that you would like to demonstrate through your proposed research plan
+
+Firstly, I would like to domenstrate that I have already possessed the basic ability to conduct scientific research in the field of industrial engineering.
+Secondly, the research work should combine theory with practice. My proposed research plan embodies  this idea and I will continue to pay more attention to this point in the future research.
+Last but not least, I hope my proposed research plan can guild me forward in my doctoral career.
+
+
+中文论文
+
+PR VS 是否需要
+
+推荐信 谁写
+
+Tips on Writing Research Plan
+It is important that the contents in the research plan are original.
+When you quote words or ideas from other authors to strengthen the points that you are making in your own writing, you must make proper references to the original sources.
+Visit “A Guide to Good Referencing Skills” by the HKUST Library for more information.
