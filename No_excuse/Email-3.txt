@@ -74,12 +74,6 @@ Or specific?
 4. 给老板的一些建议：
 有些东西不教 是想让我们自己探索？
 
-==================================
-团队问题总结
-
-RP: 围绕一个中心问题 进行研究
-
-
 =======================
 
 大规模  最优化原理
@@ -89,8 +83,6 @@ RP: 围绕一个中心问题 进行研究
 1.1 Machine scheduling Game
 
 1.2 UFL Inverse optimization
-
-If necessary,
 
 2. 	Please describe your proposed research topic
 The description should include the general field of the research and the specific research question(s)

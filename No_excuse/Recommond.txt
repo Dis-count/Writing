@@ -1,0 +1,41 @@
+Dear Professor,
+
+Mr. Zikang Li is a graduate student in his third year from Department of Management Science, University of Science and Technology of China. I am his supervisor from 2018, in charge of providing guidance and advice on his scientific research. As one of my best students, he has experienced the growing process and has great development potential in research. And I have known him for nearly three years, witnessing his growth, thus I have a comprehensive understanding of Mr. Li.
+
+Mr. Li. is good at studying new knowledge and has an eagerness to learn algorithms in operations research.
+According to what I am informed, he was one of the best students at his undergraduate stage, ranking top five percent in the whole grade. And he continues to show good learning ability, winning the First prize scholarship three times in the course of graduate study. Besides, he is willing to share his learning experiences and skills with his colleagues to make progress together. What impressed me most was that he made an excellent PPT that is more than sixty pages and this PPT presents the basic optimization knowledge combined with his own understanding, which helped my students establish a well-organized knowledge system and lay firm foundations for future research.
+
+In addition, in terms of research, I remembered that at the beginning of doing research he did not know how to program the cost function in cooperative games and at present he is skilled in programming and using software, such as MATLAB, Python, Gurobi, LaTex, to name a few. He has studied several topics in recent years, including
+cooperative games, scheduling problems, the inverse problem of an optimization problem. His main research work is about the machine scheduling cooperative game whose idea is mainly from my paper published in the top Journal, Operations Research. The main content has been completed and he made the corresponding PPT for a conference. And I expect he submits the paper to an excellent Journal in the first half of this year. Besides, he helped me revise the manuscript submitted to the Journal, Mathematical Methods of Operations Research. Through writing the reply to referees' comments, he must learn a large quantity of writing skills and improve his writing ability. Last but not least, he contributed a Chinese manuscript to the journal, Operations Research and Management Science. The topic of this paper is about the Inverse Uncapacitated Facility Location Problem which was proposed by me but he did most of the work and the paper is already accepted recently.
+
+After more than two years of my training and practicing, I think his spirit of assiduous study will make him behave very well and realize outstanding achievements of scientific research in Hong Kong University of Science and Technology. Accordingly, I strongly recommend him to pursue his academic career in HKUST. Please feel free to contact me.
+
+
+D
+1) I have known him for more than two years and I have been his supervisor since July 2018.
+2) 10 or more? I am not sure.
+3) I will demonstrate the information in the reference letter that I uploaded.
+   Please see it in Section F.
+
+================================================
+To whom it may concern,
+
+Mr. Zikang Li was a graduate of class of 2018 from Department of Chemical Physics, University of Science and Technology of China. I was the head teacher of his class from 2014 to 2018, in charge of giving help and guidance. And I witnessed four years of his growth, so I had a deep understanding of Mr. Li.
+
+Mr. Li was enthusiastic about knowledge, especially mathematical courses and spent a huge amount of time on mathematical problems according to what I'm informed. Therefore, he won the first prize in the National College Mathematics Competition after one year of hard work and got great grades in almost all math and physics courses which may help him build a solid foundation for learning other courses.
+
+Thanks to his strenuous effort, he got an excellent result in the study, and his overall GPA was the third place of the class, ranking top 10 of nearly 200 graduates in the school during those four years.
+As a result of his great performance, he won many scholarships, such as HuangMinglong Scholarship, 8814 Scholarship which is awarded to an outstanding graduate every year.
+
+Besides, I taught him at Physical Chemistry I in his sophomore's year. Every year I would assign a programming project, calculating the entropy of some substances and draw the corresponding phase diagram, which could help to enhance students' programming ability and cultivate their interest in modeling. From what I could remember, he not only finished it well with MATLAB, but assisted other students in understanding and analyzing problems.
+
+In addition, I talked with him every semester of his undergraduate stage, giving the guidance on academic direction and encouraging him to achieve his goals. I am glad to know that he finds his own interests and is going to apply for Hong Kong University of Science and Technology. I believe that his hard-working and conscientious trait will make him stand out at his Ph.D. stage. In this case, I strongly recommend his admission without any reservation. Please feel free to contact me.
+
+
+======================================================================
+编程启迪：
+注释里尽量写为什么，而不是做了什么。
+
+做了什么，看代码就好，代码不会骗人。但为什么要写成这样，有时候就非常让人困惑。有可能是处理某个 corner case，有可能是绕过某个系统限制，也可能是什么奇葩需求，这种代码，没有当时的 context，过几个月看，像甲骨文一样，不知道是想干什么。再有年轻力壮的，看不顺眼来优化一下，以后就不知道哪个地方会崩了。
+
+其实，大部分的代码应当是不言自明的，不需要注释。
