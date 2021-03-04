@@ -2,24 +2,45 @@
 
 未来怎么打算？What is your future plan?
 
-专业是什么？排名？
-
 编程语言，数学？
 
 Three minutes. Prepare
 
-1. 名字 学校 专业
-2. 证书？
-3. GPA 成绩？
-3. 哪些特质 帮助了你硕士三年的学习。比如科研项目，负责了工作，取得成果。
-不要课外生活，要学习生活。
+1. 名字 学校 专业   GPA 成绩？
+2. 研究进展
+3. 今后职业规划
+4. 哪些特质 帮助了你硕士三年的学习。比如科研项目，负责了工作，取得成果。
 
-https://www.bilibili.com/video/BV1KK411j7mV
+Good morning, my dear professors. It's my great pleasure to be here for this interview.
+First of all, let me introduce myself. My name is LiZikang. I graduated from University of Science and Technology of China, shorted as USTC. My undergraduate major is chemical physics. I achieved a high ranking in my undergraduate days, but I realized that that's not what I like after taking the specialized courses.
+Then I experienced hard time and difficulties for a long time until I took a course in operations research. I was attracted deeply by the various problems, models and
+all kinds of algorithms which are applied.
+Thus, I took the Management Science and Engineering as my graduate major.
+Even though I did't have enough basic knowledge at that time, I was so lucky to meet my supervisor who trusted me too much and gave me enormous support.
+He is an alumnus of HKUST, his responsibility and strict attitude towards the research inspired and influenced me a lot.
+Accordingly, I wanted to continue my research and pursue my PhD's degree in HKUST.
 
-Good morning, my dear professors. It's my pleasure to be here for this interview.
-First let me introduce myself. My name is LiZikang. I graduated from University of Science and Technology of China.
+I have four major research experiences,
+My research experiences include four pieces of works, 1. my main research topic, titled “Stabilizing Grand Cooperation of Machine Scheduling Game via Setup Cost Pricing”, is focusing on applying cooperative game theories to machine scheduling problems to seek potential and stable cooperation among multiple players.
+This work has been presented in two conferences and is now under finalization. We are expecting to submit it to leading journals such as INFORMS Journal on Computing and European Journal of Operational Research this year.
+
+My second research topic, titled “The Method for The Inverse Uncapacitated Facility Location Problem Under One Norm”, is now accepted by Operations Research and Management Science which is a leading Chinese journal recognized as class A by NSFC.
+
+My third research topic, titled “Lagrangian Heuristic for Simultaneous Subsidization and Penalization: Implementations on Rooted Travelling Salesman Games”, is now under revision with Mathematical Methods of Operations Research, and we believe that it has a good potential to get published this year.
+
+My fourth research topic is to study how to arrange the flow of people to maximize the interval under the background of epidemic situation.
+
+That is my short introduction, if you have any questions please feel free to ask me.
+Thanks for your listening.
+
+It is very interesting and got me greatly interested in the amazing problems and all kinds of algorithms.
+
+Thanks for your advice.
+
+Do you have any general suggestions for my future study or any advice for my interview?
 
 为什么我们学校？ 为什么这个专业？
+
 首先香港是我一直向往的，离我的家近一点，第二是我的导师毕业于这所学校。
 我的老板人非常好，有责任心，有学识，对待科研非常严谨。
 
@@ -29,4 +50,63 @@ First let me introduce myself. My name is LiZikang. I graduated from University 
 
 不要墨迹，20分钟内完成，语调尽量抑扬顿挫，每次开始回答，请说’下面我回答问题’ about this question/ regarding this question; 每次回答完，请说‘回答完毕，谢谢’。
 
-Thanks for your advice.
+Search for what I what? at that time, I feel confused.
+
+However, in the process of exploration for entrepreneurship education, our universities met some difficulties and confusions which had caused some detours in the way.
+
+Questions:
+1. 优势
+我更清楚自己要什么，在读了研究生之后，现在 有着比较明确的目标。Clear goals
+可以全身心的投入其中  I can devote myself to it.
+2. 研究进展
+3. 职业规划
+Now that I want to obtain my PhD studies, there is no doubt that I will continue to pursue my academic career after graduation. Thus, the top choice of my career will definitely be a teaching job. In my eyes, it is admirable to be a distinguished scholar who can make a great contribution to the development of society as well as the world.
+If everything goes well, I will go on postdoctoral research to accumulate enough experience and cultivate the ability of independent research. After that, I will look for a teaching position to keep on my scientific research.
+
+4. drawback / shortcoming?
+
+My Expression ability seems a little weak. I found it hard to express what I know to let others understand when I wrote my paper, thus I still need to practice it a lot.
+
+My english did not get improved because of the lack of english environment and special training.
+
+I will continue to work hard to overcome it.
+
+1. Reasons for wishing to pursue PhD / MPhil Studies in Hong Kong
+Hong Kong has always been the city where I want to live and study.
+First of all, I really expect to experience a different culture after several years on the mainland. However, the European and American countries will have totally different cultural environments which I could find it quite difficlut to fit in.
+Besides, many universities in Hong Kong have a strong academic atmosphere which is exactly what I have expected for a long time. Especially for HKUST, not only the dense academic environment appeals to me, but the campus scenery is also amazing.
+Finally, most of my family are in Shenzhen, so staying close to home is also another crucial factor to consider.
+
+2. Long-term career plan, aims and interests for future development after graduation
+
+Now that I want to obtain my PhD studies, there is no doubt that I will continue to pursue my academic career after graduation. Thus, the top choice of my career will definitely be a teaching job. In my eyes, it is admirable to be a distinguished scholar who can make a great contribution to the development of society as well as the world.
+If everything goes well, I will go on postdoctoral research to accumulate enough experience and cultivate the ability of independent research. After that, I will look for a teaching position to keep on my scientific research.
+
+但与此同时 我会关注产业界的动态 最终都是希望能够做出贡献 这也是作为科研学者成就感的来源
+
+3. Contribution that you would like to make to the development of research in Hong Kong and to the society
+
+I expect to make valuable scientific studies on the practical problems in Hong Kong if there are suitable opportunities.
+But at the same time, I will pay attention to the dynamics of the industry and hope to make the corresponding contributions. That is also the source of the sense of achievement of scientific research.
+
+希望自己的研究能够帮助 产业升级
+
+4. The intellectual vision and aspirations that you would like to demonstrate through your proposed research plan
+
+Firstly, I would like to domenstrate that I have already possessed the basic ability to conduct scientific research in the field of industrial engineering.
+Secondly, the research work should combine theory with practice. My proposed research plan embodies  this idea and I will continue to pay more attention to this point in the future research.
+Last but not least, I hope my proposed research plan can guild me forward in my doctoral career.
+
+===========================================
+The general field of the research is scheduling.
+The core content is about how to maximize the interval and spacing in two dimensions of time and space, the application scenarios could be cinemas, study rooms, hospital appointments and so on.
+
+==============================================
+Think about a question: there are several groups of customers and their service time，then how to arrange them into the given rooms having the capacity constraint under the condition that every room has enough spacing and interval to avoid congestion.
+At first, I modelled this problem as a VRP problem with time windows. Give the sequence of each room(vehicle for VRP) and the corresponding service start time, then use the rule, first in first out, we can obtain the specific assignment for the coming customers with the aid of the Solver. Next here comes a question: how to determine the objective function? In the beginning, I set it as an additive form which is obviously not appropriate because we have to consider the overall effect of time and space. Thus, we can use a function of time and space to express this overall effect. By searching the related literatures, we set
+the main form of the function as concave because the improvement of satisfaction gradually decreases with the increment of space. And the basic form could be the simple form: multiplying. Furthermore, we find that the specific time windows is not necessary as we just need to classify the different demands of customers by
+morning, afternoon and evening. Based on that, I modelled this problem as a multiple knapsack problem with assignment constraints but the objective is the minimax of the room space occupied by customers because we want to disperse customers as much as possible. The assignment constraints originate from the space
+constraint, which is that the capacity of room must exceed the number of customers. Therefore, I designed a heuristic algorithm to solve this problem.
+The first step is that divide customers into different groups according to room capacity. Because of the similarity between this problem and the k-partition problem, we can calculate the average ratio of customers to room capacity. With this ratio, we can obtain the occupied upper limit capacity of each room. For each
+room, the sorted group of customers could be scheduled according to dynamic programming.
+However, there are still some problems to be fixed for this algorithm and I will keep trying other methods. The basic idea is presented above, and I will finish the details in future research.
